@@ -25,7 +25,7 @@ function loadXMLDoc() {
     }
   };
 
-  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/BecaContratacion2018.xml", true);
+  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/PoblacionActiva.xml", true);
 
   xmlhttp.send();
 }
@@ -38,17 +38,17 @@ function myFunction(xml) {
 
   txt = "";
 
-  x = xmlDoc.getElementsByTagName("item");
+  x = xmlDoc.getElementsByTagName("datosvalor");
 
   for (i = 0; i< x.length; i++) {
 
-   	tit = x[i].getElementsByTagName("title");
+   	año = x[i].getElementsByTagName("Año");
 
-    txt += tit[0].childNodes[0].nodeValue + " , ";
+    txt += año[0].childNodes[0].nodeValue + " , ";
 
-    li = x[i].getElementsByTagName("link");
+    val = x[i].getElementsByTagName("Valor");
     
-    txt += li[0].childNodes[0].nodeValue + "\r" + "\n";
+    txt += val[0].childNodes[0].nodeValue + "\r" + "\n";
 
   }
   document.getElementById("demo").value = txt;
