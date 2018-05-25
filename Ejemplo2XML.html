@@ -38,15 +38,15 @@ function myFunction(xml) {
 
   txt = "";
 
-  x = xmlDoc.getElementsByTagName("datosvalor");
+  x = xmlDoc.getElementsByTagName("series");
 
   for (i = 0; i< x.length; i++) {
 
-   	año = x[i].getElementsByTagName("Año");
+   	año = x[i].getElementsByTagName("Nombre");
 
     txt += año[0].childNodes[0].nodeValue + " , ";
 
-    val = x[i].getElementsByTagName("Valor");
+    val = x[i].getElementsByTagName("Codigo");
     
     txt += val[0].childNodes[0].nodeValue + "\r" + "\n";
 
