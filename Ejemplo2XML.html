@@ -1,20 +1,14 @@
 <!DOCTYPE html>
-
 <html>
-
 <body>
 
 <h2>Convert RSS to text</h2>
-
- 
 
 <button type="button" onclick="loadXMLDoc()">
 
 See information</button>
 
-
 <textarea id="demo"></textarea>
-
 
 <script>
 
@@ -29,15 +23,12 @@ function loadXMLDoc() {
       myFunction(this);
 
     }
-
   };
 
   xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/BecaContratacion2018.xml", true);
 
   xmlhttp.send();
-
 }
-
 
 function myFunction(xml) {
 
@@ -51,8 +42,6 @@ function myFunction(xml) {
 
   for (i = 0; i< x.length; i++) {
 
-
-    
    	tit = x[i].getElementsByTagName("title");
 
     txt += tit[0].childNodes[0].nodeValue + " , ";
@@ -62,13 +51,9 @@ function myFunction(xml) {
     txt += li[0].childNodes[0].nodeValue + "\r" + "\n";
 
   }
-
   document.getElementById("demo").value = txt;
-
 }
 
 </script>
-
 </body>
-
 </html>
