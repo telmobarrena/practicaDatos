@@ -32,15 +32,17 @@ function loadXMLDoc() {
 
 function myFunction(xml) {
 
-  var x, i, xmlDoc, txt;
+  var x, y, i, j, xmlDoc, txt;
 
   xmlDoc = xml.responseXML;
 
   txt = "";
 
   x = xmlDoc.getElementsByTagName("serie");
+  y = xmlDoc.getElementsByTagName("datosvalor");
 
   for (i = 0; i< x.length; i++) {
+    for (j = 0; j< y.length; j++) {
 
    	nom = x[i].getElementsByTagName("Nombre");
 
@@ -50,15 +52,15 @@ function myFunction(xml) {
     
     txt += cod[0].childNodes[0].nodeValue + "\r" + "\n";
     
-    an = x[i].getElementsByTagName("Año");
+    an = x[j].getElementsByTagName("Año");
 
     txt += an[0].childNodes[0].nodeValue + " , ";
     
-    per = x[i].getElementsByTagName("periodo");
+    per = x[j].getElementsByTagName("periodo");
 
     txt += per[0].childNodes[0].nodeValue + " , ";
     
-    val = x[i].getElementsByTagName("Valor");
+    val = x[j].getElementsByTagName("Valor");
 
     txt += val[0].childNodes[0].nodeValue + "\r" + "\n";
     
