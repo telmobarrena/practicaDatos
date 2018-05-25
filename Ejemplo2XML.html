@@ -28,7 +28,7 @@ function myFunction(xml) {
   for (i = 0; i< x.length; i++) {
    	tit = x[i].getElementsByTagName("title");
     txt += tit[0].childNodes[0].nodeValue + " , ";
-    li = x[i].getElementsByTagName("link");
+    li = x[i].getElementsByTagName("image");
     
     txt += li[0].childNodes[0].nodeValue + "\r" + "\n";
   }
