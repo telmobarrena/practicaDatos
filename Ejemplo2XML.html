@@ -24,15 +24,15 @@ function myFunction(xml) {
   var x, i, xmlDoc, txt;
   xmlDoc = xml.responseXML;
   txt = "";
-  x = xmlDoc.getElementsByTagName("item");
+  x = xmlDoc.getElementsByTagName("image");
   for (i = 0; i< x.length; i++) {
    	tit = x[i].getElementsByTagName("title");
     txt += tit[0].childNodes[0].nodeValue + " , ";
-    li = x[i].getElementsByTagName("image");
+    li = x[i].getElementsByTagName("link");
     
     txt += li[0].childNodes[0].nodeValue + "\r" + "\n";
   }
-  document.getElementById("demo").value = txt;
+  document.getElementById("image").value = txt;
 }
 </script>
 </body>
