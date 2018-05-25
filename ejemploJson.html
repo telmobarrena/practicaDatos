@@ -1,11 +1,8 @@
-
-
 <!DOCTYPE html>
 <html>
 <body>
 
 <h2>Convert JSON format to text</h2>
-
 
 <button type="button" onclick="loadJSONDoc()">
 
@@ -22,13 +19,11 @@ function loadJSONDoc() {
 	jsonhttp.onreadystatechange = function() {
 
 		if (this.readyState == 4 && this.status == 200) {
-     
       
 			var myObj = JSON.parse(this.responseText);
+			
 			document.getElementById("demo").innerHTML = myObj.name + " , " + myObj.age;
-		
 		}
-
 	};
 
 	jsonhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/Json/ejmploJsonW3school.json", true);
@@ -38,7 +33,5 @@ function loadJSONDoc() {
 }
 
 </script>
-
 </body>
-
 </html>
