@@ -25,7 +25,7 @@ function loadXMLDoc() {
     }
   };
 
-  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/PoblacionActiva.xml", true);
+  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/EjemploPoblacion.xml", true);
 
   xmlhttp.send();
 }
@@ -42,13 +42,26 @@ function myFunction(xml) {
 
   for (i = 0; i< x.length; i++) {
 
-   	año = x[i].getElementsByTagName("Nombre");
+   	nom = x[i].getElementsByTagName("Nombre");
 
-    txt += año[0].childNodes[0].nodeValue + " , ";
+    txt += nom[0].childNodes[0].nodeValue + " , ";
 
-    val = x[i].getElementsByTagName("Codigo");
+    cod = x[i].getElementsByTagName("Codigo");
     
+    txt += cod[0].childNodes[0].nodeValue + "\r" + "\n";
+    
+    an = x[i].getElementsByTagName("Año");
+
+    txt += an[0].childNodes[0].nodeValue + " , ";
+    
+    per = x[i].getElementsByTagName("periodo");
+
+    txt += per[0].childNodes[0].nodeValue + " , ";
+    
+    val = x[i].getElementsByTagName("Valor");
+
     txt += val[0].childNodes[0].nodeValue + "\r" + "\n";
+    
 
   }
   document.getElementById("serie").value = txt;
