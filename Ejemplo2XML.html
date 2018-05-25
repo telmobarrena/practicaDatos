@@ -50,19 +50,8 @@ function myFunction(xml) {
 
     cod = x[i].getElementsByTagName("Codigo");
     
+    
     txt += cod[0].childNodes[0].nodeValue + "\r" + "\n";
-    
-    an = x[j].getElementsByTagName("Año");
-
-    txt += an[0].childNodes[0].nodeValue + " , ";
-    
-    per = x[j].getElementsByTagName("periodo");
-
-    txt += per[0].childNodes[0].nodeValue + " , ";
-    
-    val = x[j].getElementsByTagName("Valor");
-
-    txt += val[0].childNodes[0].nodeValue + "\r" + "\n";
     
 
   }
