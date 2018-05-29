@@ -1,65 +1,52 @@
+<!DOCTYPE html>
+
 <html>
+
 <body>
 
-<h2>Convert RSS to text</h2>
+<h2>My CD Collection:</h2>
+
+ 
 
 <button type="button" onclick="loadXMLDoc()">
 
-See information</button>
+Get my CD collection</button>
 
-<textarea id="demo"></textarea>
+<p id="demo"></p>
+
+ 
 
 <script>
-
 function loadXMLDoc() {
-
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.onreadystatechange = function() {
-  
     if (this.readyState == 4 && this.status == 200) {
       myFunction(this);
     }
   };
-  
-  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/EjemploPoblacion.xml", true);
+  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/PoblacionActivaEusk.xml", true);
   xmlhttp.send();
 }
-
+ 
 function myFunction(xml) {
-
-  var x, y, i, j, xmlDoc, txt;
+  var x, i, xmlDoc, txt;
   xmlDoc = xml.responseXML;
   txt = "";
-  x = xmlDoc.getElementsByTagName("item");
-  y = xmlDoc.getElementsByTagName("item");
-  
+  x = xmlDoc.getElementsByTagName("series");
   for (i = 0; i< x.length; i++) {
-	for (j = 0; j< y.length; j++) {
-	
-		nom = x[i].getElementsByTagName("Nombre");
-
-		txt += nom[0].childNodes[0].nodeValue + " , ";
-
-		cod = x[i].getElementsByTagName("Codigo");
-    
-		txt += cod[0].childNodes[0].nodeValue + "\r" + "\n";
-    
-		an = x[j].getElementsByTagName("Año");
-
-		txt += an[0].childNodes[0].nodeValue + " , ";
-    
-		per = x[j].getElementsByTagName("periodo");
-
-		txt += per[0].childNodes[0].nodeValue + " , ";
-    
-		val = x[j].getElementsByTagName("Valor");
-
-		txt += val[0].childNodes[0].nodeValue + "\r" + "\n";
-	}
-	}
-  
-  document.getElementById("demo").value = txt;
+    nom = x[i].getElementsByTagName("Nombre");
+    txt += nom[0].childNodes[0].nodeValue + "; ";
+    un = x[i].getElementsByTagName("Unidad");
+   
+   
+    txt += un[0].childNodes[0].nodeValue + "<br>";
+  }
+  document.getElementById("demo").innerHTML = txt;
 }
 </script>
+
+ 
+
 </body>
+
 </html>
