@@ -20,7 +20,7 @@ function loadXMLDoc() {
       myFunction(this);
     }
   };
-  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/prueba2.xml", true);
+  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/PoblacionActivaEusk.xml", true);
   xmlhttp.send();
 }
  
@@ -30,9 +30,8 @@ function myFunction(xml) {
   txt = "";
   x = xmlDoc.getElementsByTagName("serie");
   for (i = 0; i< x.length; i++) {
-    val = x[i].getElementsByTagName("valores");
-    dv = x[i].getElementsByTagName("datosvalor");
-    nom = x[i].getElementsByTagName("Año");
+    nom = x[i].getElementsByTagName("Nombre");
+    
 
     txt += nom[0].childNodes[0].nodeValue + "<br>";
   }
