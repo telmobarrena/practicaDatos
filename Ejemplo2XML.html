@@ -30,10 +30,17 @@ function myFunction(xml) {
   txt = "";
   x = xmlDoc.getElementsByTagName("serie");
   for (i = 0; i< x.length; i++) {
-    nom = x[i].getElementsByTagName("Nombre");
     
+    nom = x[i].getElementsByTagName("Nombre");
+    txt += nom[0].childNodes[0].nodeValue + "; ";
+    un = x[i].getElementsByTagName("Unidad");
+    txt += un[0].childNodes[0].nodeValue + "; ";
+    dv = x[i].getElementsByTagName("datosvalor");
+    an = x[i].getElementsByTagName("Año");
 
-    txt += nom[0].childNodes[0].nodeValue + "<br>";
+    txt += an[0].childNodes[0].nodeValue + "<br>";
+    
+    
   }
   document.getElementById("demo").innerHTML = txt;
 }
