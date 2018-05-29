@@ -1,10 +1,8 @@
 <!DOCTYPE html>
-
 <html>
-
 <body>
 
-<h2>Poblacion activa</h2>
+<h2>Poblacion activa Euskadi 25-44 años. Fuente: Eustat</h2>
 
 <button type="button" onclick="loadXMLDoc()">
 
@@ -30,24 +28,19 @@ function myFunction(xml) {
   txt = "";
   x = xmlDoc.getElementsByTagName("datosvalor");
   for (i = 0; i< x.length; i++) {
-    
-    
+  
     an = x[i].getElementsByTagName("Año");
     txt += an[0].childNodes[0].nodeValue + "; ";
     per = x[i].getElementsByTagName("periodo");  
     txt += per[0].childNodes[0].nodeValue + "; ";
     ve = x[i].getElementsByTagName("ValorEntidad");
-	  val = x[i].getElementsByTagName("Valor");
+    val = x[i].getElementsByTagName("Valor");
 	
     txt += val[0].childNodes[0].nodeValue + "<br>";
-    
-    
     
   }
   document.getElementById("demo").innerHTML = txt;
 }
 </script>
-
 </body>
-
 </html>
