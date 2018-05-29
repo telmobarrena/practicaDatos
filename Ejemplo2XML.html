@@ -30,6 +30,7 @@ function myFunction(xml) {
   txt = "";
   x = xmlDoc.getElementsByTagName("serie");
   for (i = 0; i< x.length; i++) {
+    val = x[i].getElementsByTagName("valores");
     dv = x[i].getElementsByTagName("datosvalor");
     nom = x[i].getElementsByTagName("Año");
 
