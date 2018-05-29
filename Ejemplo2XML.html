@@ -4,11 +4,11 @@
 
 <body>
 
-<h2>My CD Collection:</h2>
+<h2>Poblacion activa</h2>
 
 <button type="button" onclick="loadXMLDoc()">
 
-Get my CD collection</button>
+see data</button>
 
 <textarea id="demo"></textarea>
 
@@ -20,7 +20,7 @@ function loadXMLDoc() {
       myFunction(this);
     }
   };
-  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/example444.xml", true);
+  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/PoblacionActivaEusk.xml", true);
   xmlhttp.send();
 }
  
@@ -28,12 +28,18 @@ function myFunction(xml) {
   var x, i, xmlDoc, txt;
   xmlDoc = xml.responseXML;
   txt = "";
-  x = xmlDoc.getElementsByTagName("serie");
+  x = xmlDoc.getElementsByTagName("datosvalor");
   for (i = 0; i< x.length; i++) {
     
-    nom = x[i].getElementsByTagName("Nombre");
     
-    txt += nom[0].childNodes[0].nodeValue + "<br>";
+    an = x[i].getElementsByTagName("Año");
+    txt += an[0].childNodes[0].nodeValue + "; ";
+    per = x[i].getElementsByTagName("periodo");  
+    txt += per[0].childNodes[0].nodeValue + "; ";
+    ve = x[i].getElementsByTagName("ValorEntidad");
+	  val = x[i].getElementsByTagName("Valor");
+	
+    txt += val[0].childNodes[0].nodeValue + "<br>";
     
     
     
