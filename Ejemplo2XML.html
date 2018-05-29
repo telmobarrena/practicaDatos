@@ -32,7 +32,7 @@ function myFunction(xml) {
   var x, i, xmlDoc, txt;
   xmlDoc = xml.responseXML;
   txt = "";
-  x = xmlDoc.getElementsByTagName("series");
+  x = xmlDoc.getElementsByTagName("serie");
   for (i = 0; i< x.length; i++) {
     nom = x[i].getElementsByTagName("Nombre");
     txt += nom[0].childNodes[0].nodeValue + "; ";
