@@ -37,8 +37,9 @@ function myFunction(xml) {
     txt += un[0].childNodes[0].nodeValue + "; ";
     dv = x[i].getElementsByTagName("datosvalor");
     an = x[i].getElementsByTagName("Año");
-
-    txt += an[0].childNodes[0].nodeValue + "<br>";
+    txt += an[0].childNodes[0].nodeValue + "; ";
+    per = x[i].getElementsByTagName("periodo");  
+    txt += per[0].childNodes[0].nodeValue + "<br>";
     
     
   }
