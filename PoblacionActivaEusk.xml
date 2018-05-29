@@ -1,85 +1,41 @@
-<series>
-<serie>
-<Nombre>
-<![CDATA[ Tasa de ocupación. 25-44 años. ]]>
-</Nombre>
-<Codigo>
-<![CDATA[ 3.5.23 ]]>
-</Codigo>
-<Fuente>
-<![CDATA[ Eustat ]]>
-</Fuente>
-<Unidad>
-<![CDATA[ Tasa ]]>
-</Unidad>
-<Tipo>
-<![CDATA[ 2 ]]>
-</Tipo>
-<valores>
-<datosvalor>
-<Año>
-<![CDATA[ 2016 ]]>
-</Año>
-<periodo>
-<![CDATA[ I ]]>
-</periodo>
-<ValorEntidad>
-<Entidad>
-<![CDATA[ Euskadi ]]>
-</Entidad>
-<Valor>
-<![CDATA[ 76.5 ]]>
-</Valor>
-</ValorEntidad>
-</datosvalor>
-<datosvalor>
-<Año>
-<![CDATA[ 2016 ]]>
-</Año>
-<periodo>
-<![CDATA[ II ]]>
-</periodo>
-<ValorEntidad>
-<Entidad>
-<![CDATA[ Euskadi ]]>
-</Entidad>
-<Valor>
-<![CDATA[ 77.1 ]]>
-</Valor>
-</ValorEntidad>
-</datosvalor>
-<datosvalor>
-<Año>
-<![CDATA[ 2016 ]]>
-</Año>
-<periodo>
-<![CDATA[ III ]]>
-</periodo>
-<ValorEntidad>
-<Entidad>
-<![CDATA[ Euskadi ]]>
-</Entidad>
-<Valor>
-<![CDATA[ 76.8 ]]>
-</Valor>
-</ValorEntidad>
-</datosvalor>
-<datosvalor>
-<Año>
-<![CDATA[ 2016 ]]>
-</Año>
-<periodo>
-<![CDATA[ IV ]]>
-</periodo>
-<ValorEntidad>
-<Entidad>
-<![CDATA[ Euskadi ]]>
-</Entidad>
-<Valor>
-<![CDATA[ 77.2 ]]>
-</Valor>
-</ValorEntidad>
-</datosvalor>
+<series><serie>
+<Nombre><![CDATA[ Tasa de ocupación. 25-44 años. ]]></Nombre>
+<Codigo><![CDATA[ 3.5.23 ]]></Codigo>
+<Fuente><![CDATA[ Eustat ]]></Fuente>
+<Unidad><![CDATA[ Tasa ]]></Unidad>
+<Tipo><![CDATA[ 2 ]]></Tipo>
+<valores><datosvalor>
+  <Año><![CDATA[ 2016 ]]></Año>
+  <periodo><![CDATA[ I ]]></periodo>
+  <ValorEntidad>
+    <Entidad><![CDATA[ Euskadi ]]></Entidad>
+    <Valor><![CDATA[ 76.5 ]]></Valor>
+  </ValorEntidad>
+ </datosvalor>
+ <datosvalor>
+   <Año><![CDATA[ 2016 ]]></Año>
+   <periodo><![CDATA[ II ]]></periodo>
+   <ValorEntidad>
+     <Entidad><![CDATA[ Euskadi ]]></Entidad>
+     <Valor><![CDATA[ 77.1 ]]></Valor>
+   </ValorEntidad>
+  </datosvalor>
+  <datosvalor>
+    <Año><![CDATA[ 2016 ]]></Año>
+    <periodo><![CDATA[ III ]]></periodo>
+    <ValorEntidad>
+      <Entidad><![CDATA[ Euskadi ]]></Entidad>
+      <Valor><![CDATA[ 76.8 ]]></Valor>
+    </ValorEntidad>
+  </datosvalor>
+  <datosvalor>
+    <Año><![CDATA[ 2016 ]]></Año>
+    <periodo><![CDATA[ IV ]]></periodo>
+    <ValorEntidad>
+      <Entidad><![CDATA[ Euskadi ]]></Entidad>
+      <Valor><![CDATA[ 77.2 ]]></Valor>
+    </ValorEntidad>
+  </datosvalor>
 </valores>
 </serie>
 </series>
