@@ -31,17 +31,9 @@ function myFunction(xml) {
   x = xmlDoc.getElementsByTagName("serie");
   for (i = 0; i< x.length; i++) {
     
-    dv = x[i].getElementsByTagName("datosvalor");
-    an = x[i].getElementsByTagName("Año");
-    txt += an[0].childNodes[0].nodeValue + "; ";
-    per = x[i].getElementsByTagName("periodo");  
-    txt += per[0].childNodes[0].nodeValue + "; ";
-    ve = x[i].getElementsByTagName("ValorEntidad");
-    ent = x[i].getElementsByTagName("Entidad");
-    txt += ent[0].childNodes[0].nodeValue + "; ";
-	  val = x[i].getElementsByTagName("Valor");
-	
-    txt += val[0].childNodes[0].nodeValue + "<br>";
+    nom = x[i].getElementsByTagName("Nombre");
+    
+    txt += nom[0].childNodes[0].nodeValue + "<br>";
     
     
     
