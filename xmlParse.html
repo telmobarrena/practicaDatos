@@ -32,7 +32,7 @@ function loadXMLDoc() {
 
   };
 
-  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/prueba2.xml", true);
+  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/example444.xml", true);
 
   xmlhttp.send();
 
@@ -48,19 +48,13 @@ function myFunction(xml) {
 
   txt = "";
 
-  x = xmlDoc.getElementsByTagName("CD");
+  x = xmlDoc.getElementsByTagName("serie");
 
   for (i = 0; i< x.length; i++) {
 
-    tit = x[i].getElementsByTagName("Nombre");
-
-    txt += tit[0].childNodes[0].nodeValue + "; ";
-
-    val = x[i].getElementsByTagName("Valor");
-   
-    an = x[i].getElementsByTagName("Año");
-
-    txt += an[0].childNodes[0].nodeValue + "<br>";
+   nom = x[i].getElementsByTagName("Nombre");
+    
+    txt += nom[0].childNodes[0].nodeValue + "<br>";
 
   }
 
