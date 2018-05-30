@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Convert JSON format to text</h2>
+
+<button type="button" onclick="loadJSONDoc()">
+
+	See information</button>
+
+<textarea id="demo"></textarea>
+
+<script>
+function loadJSONDoc() {
+  var jsonhttp = new XMLHttpRequest();
+	jsonhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+      
+			var myObj = JSON.parse(this.responseText);
+			
+			document.getElementById("demo").innerHTML = myObj.duration + " , " + myObj.content;
+		}
+	};
+	jsonhttp.open("GET", "https://www.ted.com/talks/subtitles/id/276/lang/en", true);
+	jsonhttp.send();
+}
+</script>
+</body>
+</html>
+
+
