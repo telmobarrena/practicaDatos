@@ -1,0 +1,111 @@
+<html>
+  <head>
+    <title>Example API Marvel</title>
+  </head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
+
+  
+  <script>
+// you will also have to setup the referring domains on your marvel developer portal
+var PRIV_KEY = "11bef1e5896b6866d2ef089467b07aa9543397c4";
+var PUBLIC_KEY = "5d57b5486472bed47fabbe9c0c90fa42";
+
+function getMarvelResponse() {
+
+  // you need a new ts every request                                                                                    
+  var ts = new Date().getTime();
+  var hash = CryptoJS.MD5(ts + PRIV_KEY + PUBLIC_KEY).toString();
+  
+  // the api deals a lot in ids rather than just the strings you want to use
+  var characterId = '1009718'; // wolverine                                                                             
+
+
+  var url = 'http://gateway.marvel.com:80/v1/public/comics';
+  
+  var request = new XMLHttpRequest();
+    request.open('GET', 'https://gateway.marvel.com:443/v1/public/characters?apikey=5d57b5486472bed47fabbe9c0c90fa42&ts=' + ts + 
+	  '&hash=' + hash, true);
+
+    request.onload = function() {
+      if (request.status >= 200 && request.status < 400) {
+        // Success!
+        resp = request.responseText;
+		console.log(resp);
+        data = JSON.parse(resp);
+		document.getElementById("title").value = data.data.results[1].name;
+		document.getElementById("image").src = data.data.results[1].thumbnail.path + "." + data.data.results[1].thumbnail.extension;
+		//document.getElementById("extension").src =data.data.results[1].thumbnail.extension;
+		
+      } else {
+        // We reached our target server, but it returned an error
+      }
+    };
+
+    request.send();
+}
+  
+  /*
+  $.getJSON(url, {
+    ts: ts,
+    apikey: PUBLIC_KEY,
+    hash: hash,
+    characters: characterId
+    })
+    .done(function(data) {
+      // sort of a long dump you will need to sort through
+      $("#div1").load("data");
+    })
+    .fail(function(err){
+      // the error codes are listed on the dev site
+      console.log(err);
+    });
+};
+*/
+// <img id="image"  width="100"/> no da error èro no se arbe la imagen
+// <img id="image" + ".jpg"/>
+// <img id="image" src="image"  width="100"/>
+
+getMarvelResponse();
+
+  </script>
+  <body>
+    
+    
+	<h2>Marvel</h2>
+    
+    
+	
+    <button onclick="getMarvelResponse">Get Data</button>
+	
+	
+   <input id="title"></input>
+   
+  <img id="image" src="image"  width="100"/>
+    
+   
+   
+    
+	
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
