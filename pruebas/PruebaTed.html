@@ -22,7 +22,7 @@ function loadJSONDoc() {
       
 			var myObj = JSON.parse(this.responseText);
 			
-			document.getElementById("demo").innerHTML = myObj.duration + " , " + myObj.content;
+			document.getElementById("demo").innerHTML = myObj.captions[0].duration + " , " + myObj.captions[0].content;
 		}
 	};
 
