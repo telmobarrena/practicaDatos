@@ -14,23 +14,27 @@
 
 function loadJSONDoc() {
 
-  var jsonhttp = new XMLHttpRequest();
+    var data ="";
 
-	jsonhttp.onreadystatechange = function() {
+    var request = new XMLHttpRequest();
+	
+    request.open('GET', 'https://www.ted.com/talks/subtitles/id/70/lang/en', true);
 
-		if (this.readyState == 4 && this.status == 200) {
+    request.onload = function() {
       
-			var myObj = JSON.parse(this.responseText);
-			
-			document.getElementById("demo").innerHTML = myObj.captions[0].duration + " , " + myObj.captions[0].content;
-		}
-	};
+	    if (request.status >= 200 && request.status < 400) {
+      
+       		 resp = request.responseText;
+       		 data = JSON.parse(resp);
+	   	 document.getElementById("demo").innerHTML = myObj.captions[0].duration + " , " + myObj.captions[0].content;
+	    	
+		} else {
+        
+      		}
+    };
 
-	jsonhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/Json/Ted.json", true);
-
-	jsonhttp.send();
-
-}
+    request.send();
+  }
 
 </script>
 </body>
