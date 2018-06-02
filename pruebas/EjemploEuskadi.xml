@@ -1,0 +1,1109 @@
+<series>
+<serie>
+<Nombre>
+<![CDATA[ Población ocupada. 25-44 años. ]]>
+</Nombre>
+<Codigo>
+<![CDATA[ 3.5.5 ]]>
+</Codigo>
+<Fuente>
+<![CDATA[ Eustat ]]>
+</Fuente>
+<Unidad>
+<![CDATA[ Miles de personas ]]>
+</Unidad>
+<Tipo>
+<![CDATA[ 2 ]]>
+</Tipo>
+<valores>
+<datosvalor>
+<Año>
+<![CDATA[ 2000 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 484.6 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2000 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 485.8 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2000 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 492.4 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2000 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 503.4 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2001 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 499.2 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2001 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 513.3 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2001 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 519.3 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2001 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 525.0 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2002 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 524.2 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2002 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 531.2 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2002 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 532.6 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2002 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 536.7 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2003 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 527.2 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2003 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 535.1 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2003 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 542.3 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2003 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 538.1 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2004 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 540.1 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2004 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 540.3 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2004 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 543.7 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2004 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 550.5 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2005 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 542.3 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2005 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 540.4 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2005 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 543.4 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2005 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 555.4 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2006 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 547.4 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2006 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 549.7 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2006 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 557.0 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2006 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 569.1 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2007 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 570.8 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2007 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 563.5 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2007 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 571.3 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2007 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 571.0 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2008 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 563.7 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2008 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 566.7 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2008 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 568.9 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2008 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 562.5 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2009 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 544.6 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2009 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 538.0 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2009 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 536.0 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2009 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 532.2 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2010 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 522.5 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2010 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 527.3 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2010 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 531.2 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2010 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 511.3 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2011 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 505.6 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2011 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 506.7 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2011 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 505.2 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2011 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 493.8 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2012 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 483.6 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2012 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 485.9 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2012 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 482.0 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2012 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 470.5 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2013 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 462.2 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2013 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 460.9 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2013 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 462.5 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2013 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 453.1 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2014 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 445.6 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2014 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 445.4 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2014 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 450.0 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2014 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 452.0 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2015 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 441.4 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2015 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 446.0 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2015 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 442.9 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2015 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 442.7 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2016 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 440.8 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2016 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 441.6 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2016 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 438.0 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2016 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 437.7 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+</valores>
+</serie>
+</series>
