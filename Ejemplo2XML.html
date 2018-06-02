@@ -9,9 +9,9 @@
 see data</button>
 <p></>
 
-<p><b>Año - Periodo - Valor (en miles de perosnas)</b>.</p>
-<p id="demo"></p>
 
+<p id="demo"></p>
+<p><b>Año - Periodo - Valor (en miles de perosnas)</b></p>
 <script>
 function loadXMLDoc() {
   var xmlhttp = new XMLHttpRequest();
@@ -33,9 +33,9 @@ function myFunction(xml) {
   
     
     an = x[i].getElementsByTagName("Año");
-    txt += an[0].childNodes[0].nodeValue + "; ";
+    txt += an[0].childNodes[0].nodeValue + "; "+ "/t";
     per = x[i].getElementsByTagName("periodo");  
-    txt += per[0].childNodes[0].nodeValue + "; ";
+    txt += per[0].childNodes[0].nodeValue + "; " + "/t";
     ve = x[i].getElementsByTagName("ValorEntidad");
     val = x[i].getElementsByTagName("Valor");
 	
