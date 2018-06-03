@@ -30,6 +30,7 @@
 function getMarvelResponse(key) {
   
   var PRIV_KEY = key;
+	//PRIV_KEY=11bef1e5896b6866d2ef089467b07aa9543397c4
   var PUBLIC_KEY = "5d57b5486472bed47fabbe9c0c90fa42";
   var ts = new Date().getTime();
   var hash = CryptoJS.MD5(ts + PRIV_KEY + PUBLIC_KEY).toString();
@@ -44,7 +45,7 @@ function getMarvelResponse(key) {
       if (request.status >= 200 && request.status < 400) {
         // Success!
         resp = request.responseText;
-	console.log(resp);
+		console.log(resp);
         var data = JSON.parse(resp);	
 	var table = document.getElementById("myTable");
 	
