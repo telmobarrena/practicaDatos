@@ -29,9 +29,9 @@ function myFunction(xml) {
   
     
     an = x[i].getElementsByTagName("Año");
-    txt += an[0].childNodes[0].nodeValue + ";            "+ "<t>";
+    txt += an[0].childNodes[0].nodeValue + "; "+ "&nbsp;";
     per = x[i].getElementsByTagName("periodo");  
-    txt += per[0].childNodes[0].nodeValue + ";     " + "&nbsp";
+    txt += per[0].childNodes[0].nodeValue + "; " + "&nbsp;";
     ve = x[i].getElementsByTagName("ValorEntidad");
     val = x[i].getElementsByTagName("Valor");
 	
