@@ -3,6 +3,7 @@
 <body>
 
 <h2>Poblacion activa Euskadi 25-44 años. Fuente: Eustat</h2>
+<p>Datos en en miles de personas</p>
 
 <button type="button" onclick="loadXMLDoc()">
 see data</button>
@@ -38,7 +39,7 @@ function myFunction(xml) {
     txt += val[0].childNodes[0].nodeValue + "<br>";
     
   }
-  document.getElementById("demo").innerHTML = "<b>Año - Periodo - Valor (en miles de personas)</b>" +"<br>" + txt;
+  document.getElementById("demo").innerHTML = "<b>Año - Fase - Valor </b>" +"<br>" + txt;
  
 }
 </script>
