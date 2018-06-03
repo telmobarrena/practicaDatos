@@ -30,12 +30,11 @@ function myFunction(xml) {
   
     
     ti = x[i].getElementsByTagName("title");
-    txt += ti[0].childNodes[0].nodeValue + "; "+ "&nbsp;"+ "&nbsp;";
-    de = x[i].getElementsByTagName("description");
-    txt += de[0].childNodes[0].nodeValue + "<br>";
+   
+    txt += ti[0].childNodes[0].nodeValue + "<br>";
     
   }
-  document.getElementById("demo").innerHTML = "<b>Año - Fase - Valor </b>" +"<br>" + txt;
+  document.getElementById("demo").innerHTML = txt;
 }
 </script>
 </body>
