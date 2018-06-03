@@ -25,14 +25,14 @@ function myFunction(xml) {
   var x, i, xmlDoc, txt;
   xmlDoc = xml.responseXML;
   txt = "";
-  x = xmlDoc.getElementsByTagName("channel");
+  x = xmlDoc.getElementsByTagName("item");
   for (i = 0; i< x.length; i++) {
   
     
-    an = x[i].getElementsByTagName("title");
-  
-	
-    txt += an[0].childNodes[0].nodeValue + "<br>";
+    ti = x[i].getElementsByTagName("title");
+    txt += ti[0].childNodes[0].nodeValue + "; "+ "&nbsp;"+ "&nbsp;";
+    de = x[i].getElementsByTagName("description");
+    txt += de[0].childNodes[0].nodeValue + "<br>";
     
   }
   document.getElementById("demo").innerHTML = "<b>Año - Fase - Valor </b>" +"<br>" + txt;
