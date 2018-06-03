@@ -17,14 +17,12 @@
     	<td><b>Number</b></td>
     	<td><b>Title</b></td>
     	<td><b>Image</b></td>
-    
 	</tr>
 	</table>
 	
   </body>
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
-
   <script>
 
 function getMarvelResponse(key) {
@@ -46,7 +44,7 @@ function getMarvelResponse(key) {
         // Success!
         resp = request.responseText;
 		console.log(resp);
-        var data = JSON.parse(resp);	
+        var data = JSON.parse(resp);
 	var table = document.getElementById("myTable");
 	
 	for (var i = 0; i < data.data.results.length; i++) {
