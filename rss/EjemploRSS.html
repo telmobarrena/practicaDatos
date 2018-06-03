@@ -2,9 +2,8 @@
 <html>
 <body>
 
-<h2>Poblacion activa Euskadi 25-44 años. Fuente: Eustat</h2>
-<p>Datos en miles de personas</p>
-
+<h2>Oferta Pública de Empleo (OPE) de la Administración Autonómica de Euskadi 208</h2>
+  
 <button type="button" onclick="loadXMLDoc()">
 see data</button>
 <p id="demo"></p>
@@ -28,7 +27,6 @@ function myFunction(xml) {
   x = xmlDoc.getElementsByTagName("item");
   for (i = 0; i< x.length; i++) {
   
-    
     ti = x[i].getElementsByTagName("title");
    
     txt += ti[0].childNodes[0].nodeValue + "<br>";
