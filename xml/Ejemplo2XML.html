@@ -7,7 +7,9 @@
 
 <button type="button" onclick="loadXMLDoc()">
 see data</button>
-<p id="demo"></p>
+
+<p><textarea id="demo"></textarea></p>
+
 
 <script>
 function loadXMLDoc() {
@@ -36,10 +38,10 @@ function myFunction(xml) {
     ve = x[i].getElementsByTagName("ValorEntidad");
     val = x[i].getElementsByTagName("Valor");
 	
-    txt += val[0].childNodes[0].nodeValue + "<br>";
+    txt += val[0].childNodes[0].nodeValue + "\n";
     
   }
-  document.getElementById("demo").innerHTML = "<b>Año - Fase - Valor </b>" +"<br>" + txt;
+  document.getElementById("demo").innerHTML = "<b>Año - Fase - Valor </b>" + txt;
 }
 </script>
 </body>
