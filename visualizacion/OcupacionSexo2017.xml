@@ -1,83 +1,82 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <series>
 <serie>
 <Nombre>
-<![CDATA[ Población ocupada. Hombres. ]]>
+&#32; Población ocupada. Hombres.&#32;
 </Nombre>
 <Codigo>
-<![CDATA[ 3.5.2 ]]>
+&#32; 3.5.2&#32;
 </Codigo>
 <Fuente>
-<![CDATA[ Eustat ]]>
+&#32; Eustat&#32;
 </Fuente>
 <Unidad>
-<![CDATA[ Miles de personas ]]>
+&#32; Miles de personas&#32;
 </Unidad>
 <Tipo>
-<![CDATA[ 2 ]]>
+&#32; 2&#32;
 </Tipo>
 <valores>
 <datosvalor>
 <Año>
-<![CDATA[ 2017 ]]>
+&#32; 2017&#32;
 </Año>
 <periodo>
-<![CDATA[ I ]]>
+&#32; I&#32;
 </periodo>
 <ValorEntidad>
 <Entidad>
-<![CDATA[ Euskadi ]]>
+&#32; Euskadi&#32;
 </Entidad>
 <Valor>
-<![CDATA[ 479.4 ]]>
+&#32; 479.4&#32;
 </Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
 <Año>
-<![CDATA[ 2017 ]]>
+&#32; 2017&#32;
 </Año>
 <periodo>
-<![CDATA[ II ]]>
+&#32; II&#32;
 </periodo>
 <ValorEntidad>
 <Entidad>
-<![CDATA[ Euskadi ]]>
+&#32; Euskadi&#32;
 </Entidad>
 <Valor>
-<![CDATA[ 484.1 ]]>
+&#32; 484.1&#32;
 </Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
 <Año>
-<![CDATA[ 2017 ]]>
+&#32; 2017&#32;
 </Año>
 <periodo>
-<![CDATA[ III ]]>
+&#32; III&#32;
 </periodo>
 <ValorEntidad>
 <Entidad>
-<![CDATA[ Euskadi ]]>
+&#32; Euskadi&#32;
 </Entidad>
 <Valor>
-<![CDATA[ 486.6 ]]>
+&#32; 486.6&#32;
 </Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
 <Año>
-<![CDATA[ 2017 ]]>
+&#32; 2017&#32;
 </Año>
 <periodo>
-<![CDATA[ IV ]]>
+&#32; IV&#32;
 </periodo>
 <ValorEntidad>
 <Entidad>
-<![CDATA[ Euskadi ]]>
+&#32; Euskadi&#32;
 </Entidad>
 <Valor>
-<![CDATA[ 480.1 ]]>
+&#32; 480.1&#32;
 </Valor>
 </ValorEntidad>
 </datosvalor>
@@ -85,82 +84,82 @@ This XML file does not appear to have any style information associated with it. 
 </serie>
 <serie>
 <Nombre>
-<![CDATA[ Población ocupada. Mujeres. ]]>
+&#32; Población ocupada. Mujeres.&#32;
 </Nombre>
 <Codigo>
-<![CDATA[ 3.5.3 ]]>
+&#32; 3.5.3&#32;
 </Codigo>
 <Fuente>
-<![CDATA[ Eustat ]]>
+&#32; Eustat&#32;
 </Fuente>
 <Unidad>
-<![CDATA[ Miles de personas ]]>
+&#32; Miles de personas&#32;
 </Unidad>
 <Tipo>
-<![CDATA[ 2 ]]>
+&#32; 2&#32;
 </Tipo>
 <valores>
 <datosvalor>
 <Año>
-<![CDATA[ 2017 ]]>
+&#32; 2017&#32;
 </Año>
 <periodo>
-<![CDATA[ I ]]>
+&#32; I&#32;
 </periodo>
 <ValorEntidad>
 <Entidad>
-<![CDATA[ Euskadi ]]>
+&#32; Euskadi&#32;
 </Entidad>
 <Valor>
-<![CDATA[ 432.5 ]]>
+&#32; 432.5&#32;
 </Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
 <Año>
-<![CDATA[ 2017 ]]>
+&#32; 2017&#32;
 </Año>
 <periodo>
-<![CDATA[ II ]]>
+&#32; II&#32;
 </periodo>
 <ValorEntidad>
 <Entidad>
-<![CDATA[ Euskadi ]]>
+&#32; Euskadi&#32;
 </Entidad>
 <Valor>
-<![CDATA[ 441.4 ]]>
+&#32; 441.4&#32;
 </Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
 <Año>
-<![CDATA[ 2017 ]]>
+&#32; 2017&#32;
 </Año>
 <periodo>
-<![CDATA[ III ]]>
+&#32; III&#32;
 </periodo>
 <ValorEntidad>
 <Entidad>
-<![CDATA[ Euskadi ]]>
+&#32; Euskadi&#32;
 </Entidad>
 <Valor>
-<![CDATA[ 430.6 ]]>
+&#32; 430.6&#32;
 </Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
 <Año>
-<![CDATA[ 2017 ]]>
+&#32; 2017&#32;
 </Año>
 <periodo>
-<![CDATA[ IV ]]>
+&#32; IV&#32;
 </periodo>
 <ValorEntidad>
 <Entidad>
-<![CDATA[ Euskadi ]]>
+&#32; Euskadi&#32;
 </Entidad>
 <Valor>
-<![CDATA[ 438.2 ]]>
+&#32; 438.2&#32;
 </Valor>
 </ValorEntidad>
 </datosvalor>
