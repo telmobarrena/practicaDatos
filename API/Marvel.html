@@ -3,15 +3,12 @@
     <title>Example API Marvel</title>
   </head>
   <body>
-    
 	<div id="content"></div>
-	
 	<p><b>Insert your private key</b></p>
     	<input id="KEY" onChange="getMarvelResponse(this.value)" size='50' > </input>
 	<p></p>
     	<button onclick="getMarvelResponse(this.value)">Get Data</button>
 	<p></p>
-    
     	<table id="myTable" border="1">
 	<tr>
     	<td><b>Number</b></td>
@@ -19,12 +16,9 @@
     	<td><b>Image</b></td>
 	</tr>
 	</table>
-	
   </body>
-  
   <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
   <script>
-
 function getMarvelResponse(key) {
   
   var PRIV_KEY = key;
@@ -39,25 +33,21 @@ function getMarvelResponse(key) {
     request.open('GET', 'https://gateway.marvel.com:443/v1/public/characters?apikey=5d57b5486472bed47fabbe9c0c90fa42&ts=' + ts + 
 	  '&hash=' + hash, true);
     request.onreadystatechange = function() {
-	
       if (request.status >= 200 && request.status < 400) {
         // Success!
         resp = request.responseText;
 		console.log(resp);
         var data = JSON.parse(resp);
 	var table = document.getElementById("myTable");
-	
 	for (var i = 0; i < data.data.results.length; i++) {
 		
         	var row = table.insertRow(i+1);
 		var cell1 = row.insertCell(0);
         	var cell2 = row.insertCell(1);
         	var cell3 = row.insertCell(2);
-       
         	cell1.innerHTML = i;
 		cell2.innerHTML = data.data.results[i].name;
         	cell3.innerHTML =  "<img class='image' src='" + data.data.results[i].thumbnail.path + "." + data.data.results[i].thumbnail.extension + "' width='100'/>";
-        
 	}
       } else {
         // We reached our target server, but it returned an error
