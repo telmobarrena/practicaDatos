@@ -17,7 +17,7 @@
 		['2011',	61.4,	61.41,	61.61,	61.47],
 		['2013',	60.02,	60.27,	60.26,	60.23],
 		['2014',	49.35,	49.87,	49.91,	49.81],
-		['2015',	40.44,	40.43,	41,		40.62],
+		['2015',	40.44,	40.43,	41,	40.62],
 		['2016',	38.66,	39.26,	39.74,	39.34]
 	  
 	  ]);
@@ -32,14 +32,14 @@
 		['2011',	22.72,	24.92,	23.29,	24.07],
 		['2013',	22.61,	24.83,	23.19,	23.98],
 		['2014',	22.98,	25.31,	23.63,	24.43],
-		['2015',	23,		25.33,	23.71,	24.46],
+		['2015',	23,	25.33,	23.71,	24.46],
 		['2016',	23.35,	25.81,	24.21,	24.93]
 
 	  
 	  ]);
 	  
 	  
-    var options = {
+    	var options = {
       title : 'Indicadores municipales de sostenibilidad: Población de mas de 10 años que ha completado al menos Estudios Secundarios (%)',
       vAxis: {title: 'indicador'},
       hAxis: {title: 'Año'},
@@ -58,14 +58,14 @@
     };
 
     var chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
-	var chart2 = new google.visualization.ComboChart(document.getElementById('chart_div2'));
+    var chart2 = new google.visualization.ComboChart(document.getElementById('chart_div2'));
     chart.draw(data, options);
-	chart2.draw(data2, options2);
+    chart2.draw(data2, options2);
   }
     </script>
   </head>
   <body>
     <div id="chart_div" style="width: 900px; height: 500px;"></div>
-	 <div id="chart_div2" style="width: 900px; height: 500px;"></div>
+    <div id="chart_div2" style="width: 900px; height: 500px;"></div>
   </body>
 </html>
