@@ -1,123 +1,124 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <series>
 <serie>
-<Nombre><![CDATA[ Población ocupada. 16-24 años. ]]></Nombre>
-<Codigo><![CDATA[ 3.5.4 ]]></Codigo>
-<Fuente><![CDATA[ Eustat ]]></Fuente>
-<Unidad><![CDATA[ Miles de personas ]]></Unidad>
-<Tipo><![CDATA[ 2 ]]></Tipo>
+<Nombre>&#127; Población ocupada. 16-24 años.&#127;</Nombre>
+<Codigo>&#127; 3.5.4&#127;</Codigo>
+<Fuente>&#127; Eustat&#127;</Fuente>
+<Unidad>&#127; Miles de personas&#127;</Unidad>
+<Tipo>&#127; 2&#127;</Tipo>
 <valores>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ I ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; I&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 32.2 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 32.2&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ II ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; II&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 34.8 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 34.8&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ III ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; III&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 31.5 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 31.5&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ IV ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; IV&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 29.3 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 29.3&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 </valores>
 </serie>
 <serie>
-<Nombre><![CDATA[ Población ocupada. 25-44 años. ]]></Nombre>
-<Codigo><![CDATA[ 3.5.5 ]]></Codigo>
-<Fuente><![CDATA[ Eustat ]]></Fuente>
-<Unidad><![CDATA[ Miles de personas ]]></Unidad>
-<Tipo><![CDATA[ 2 ]]></Tipo>
+<Nombre>&#127; Población ocupada. 25-44 años.&#127;</Nombre>
+<Codigo>&#127; 3.5.5&#127;</Codigo>
+<Fuente>&#127; Eustat&#127;</Fuente>
+<Unidad>&#127; Miles de personas&#127;</Unidad>
+<Tipo>&#127; 2&#127;</Tipo>
 <valores>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ I ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; I&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 447.7 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 447.7&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ II ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; II&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 447.7 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 447.7&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ III ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; III&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 440.3 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 440.3&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ IV ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; IV&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 439.8 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 439.8&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 </valores>
 </serie>
 <serie>
-<Nombre><![CDATA[ Población ocupada. 45 y más años. ]]></Nombre>
-<Codigo><![CDATA[ 3.5.6 ]]></Codigo>
-<Fuente><![CDATA[ Eustat ]]></Fuente>
-<Unidad><![CDATA[ Miles de personas ]]></Unidad>
-<Tipo><![CDATA[ 2 ]]></Tipo>
+<Nombre>&#127; Población ocupada. 45 y más años.&#127;</Nombre>
+<Codigo>&#127; 3.5.6&#127;</Codigo>
+<Fuente>&#127; Eustat&#127;</Fuente>
+<Unidad>&#127; Miles de personas&#127;</Unidad>
+<Tipo>&#127; 2&#127;</Tipo>
 <valores>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ I ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; I&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 432.0 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 432.0&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ II ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; II&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 443.1 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 443.1&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ III ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; III&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 445.4 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 445.4&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 <datosvalor>
-<Año><![CDATA[ 2017 ]]></Año>
-<periodo><![CDATA[ IV ]]></periodo>
+<Año>&#127; 2017&#127;</Año>
+<periodo>&#127; IV&#127;</periodo>
 <ValorEntidad>
-<Entidad><![CDATA[ Euskadi ]]></Entidad>
-<Valor><![CDATA[ 449.2 ]]></Valor>
+<Entidad>&#127; Euskadi&#127;</Entidad>
+<Valor>&#127; 449.2&#127;</Valor>
 </ValorEntidad>
 </datosvalor>
 </valores>
