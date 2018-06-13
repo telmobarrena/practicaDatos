@@ -1,0 +1,169 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<series>
+<serie>
+<Nombre>
+<![CDATA[ Población ocupada. Hombres. ]]>
+</Nombre>
+<Codigo>
+<![CDATA[ 3.5.2 ]]>
+</Codigo>
+<Fuente>
+<![CDATA[ Eustat ]]>
+</Fuente>
+<Unidad>
+<![CDATA[ Miles de personas ]]>
+</Unidad>
+<Tipo>
+<![CDATA[ 2 ]]>
+</Tipo>
+<valores>
+<datosvalor>
+<Año>
+<![CDATA[ 2017 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 479.4 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2017 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 484.1 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2017 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 486.6 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2017 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 480.1 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+</valores>
+</serie>
+<serie>
+<Nombre>
+<![CDATA[ Población ocupada. Mujeres. ]]>
+</Nombre>
+<Codigo>
+<![CDATA[ 3.5.3 ]]>
+</Codigo>
+<Fuente>
+<![CDATA[ Eustat ]]>
+</Fuente>
+<Unidad>
+<![CDATA[ Miles de personas ]]>
+</Unidad>
+<Tipo>
+<![CDATA[ 2 ]]>
+</Tipo>
+<valores>
+<datosvalor>
+<Año>
+<![CDATA[ 2017 ]]>
+</Año>
+<periodo>
+<![CDATA[ I ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 432.5 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2017 ]]>
+</Año>
+<periodo>
+<![CDATA[ II ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 441.4 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2017 ]]>
+</Año>
+<periodo>
+<![CDATA[ III ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 430.6 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+<datosvalor>
+<Año>
+<![CDATA[ 2017 ]]>
+</Año>
+<periodo>
+<![CDATA[ IV ]]>
+</periodo>
+<ValorEntidad>
+<Entidad>
+<![CDATA[ Euskadi ]]>
+</Entidad>
+<Valor>
+<![CDATA[ 438.2 ]]>
+</Valor>
+</ValorEntidad>
+</datosvalor>
+</valores>
+</serie>
+</series>
