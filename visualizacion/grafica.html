@@ -1,47 +1,71 @@
-<!DOCTYPE html>
 <html>
-<body>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawVisualization);
 
-<h2>Poblacion activa Euskadi 25-44 años. Fuente: Eustat</h2>
-<p>Datos en miles de personas</p>
+      function drawVisualization() {
+        // Some raw data (not necessarily accurate)
+        var data = google.visualization.arrayToDataTable([
+         
+		['Año', 'Araba', 'Bizkaia', 'Gipuzkoa', 'CAE'],
+		['1996',	63.88,	64.11,	64.25,	64.12],
+		['2001',	63.33,	63.43,	63.58,	63.47],
+		['2006',	62.81,	62.85,	63.01,	62.9],
+		['2010',	62.26,	62.24,	62.39,	62.29],
+		['2011',	61.4,	61.41,	61.61,	61.47],
+		['2013',	60.02,	60.27,	60.26,	60.23],
+		['2014',	49.35,	49.87,	49.91,	49.81],
+		['2015',	40.44,	40.43,	41,		40.62],
+		['2016',	38.66,	39.26,	39.74,	39.34]
+	  
+	  ]);
+	  
+	  var data2 = google.visualization.arrayToDataTable([
+         
+		['Año', 'Araba', 'Bizkaia', 'Gipuzkoa', 'CAE'],	
+		['1996',	10.21,	11.22,	10.21,	10.76],
+		['2001',	13.85,	14.97,	13.82,	14.44],
+		['2006',	15.67,	18.33,	16.12,	17.24],
+		['2010',	21.87,	24.18,	22.48,	23.3],
+		['2011',	22.72,	24.92,	23.29,	24.07],
+		['2013',	22.61,	24.83,	23.19,	23.98],
+		['2014',	22.98,	25.31,	23.63,	24.43],
+		['2015',	23,		25.33,	23.71,	24.46],
+		['2016',	23.35,	25.81,	24.21,	24.93]
 
-<button type="button" onclick="loadXMLDoc()">
-see data</button>
+	  
+	  ]);
+	  
+	  
+    var options = {
+      title : 'Indicadores municipales de sostenibilidad: Población de mas de 10 años que ha completado al menos Estudios Secundarios (%)',
+      vAxis: {title: 'indicador'},
+      hAxis: {title: 'Año'},
+      seriesType: 'bars',
+      series: {3: {type: 'line'}}
+	  
+	 };
+	  
+	 var options2 = {
+      title : 'Indicadores municipales de sostenibilidad: Población de mas de 10 años que ha completado Estudios Universitarios (%)',
+      vAxis: {title: 'indicador'},
+      hAxis: {title: 'Año'},
+      seriesType: 'bars',
+      series: {3: {type: 'line'}}
+	  
+    };
 
-<p><textarea id="demo"></textarea></p>
-
-<script>
-function loadXMLDoc() {
-  var xmlhttp = new XMLHttpRequest();
-  xmlhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      myFunction(this);
-    }
-  };
-  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/visualizacion/OcupacionSexo.xml", true);
-  xmlhttp.send();
-}
- 
-function myFunction(xml) {
-  var x, i, xmlDoc, txt;
-  xmlDoc = xml.responseXML;
-  txt = "";
-  x = xmlDoc.getElementsByTagName("datosvalor");
-  for (i = 0; i< x.length; i++) {
-  
- 
-	dv = x[i].getElementsByTagName("datosvalor");
-	an = x[i].getElementsByTagName("Año");
-    txt += an[0].childNodes[0].nodeValue + "; "+ "&nbsp;"+ "&nbsp;" +"\t" ;
-    per = x[i].getElementsByTagName("periodo");  
-    txt += per[0].childNodes[0].nodeValue + "; " + "&nbsp;"+ "&nbsp;"+ "&nbsp;"+ "&nbsp;" ;
-    ve = x[i].getElementsByTagName("ValorEntidad");
-    val = x[i].getElementsByTagName("Valor");
-    txt += val[0].childNodes[0].nodeValue + "\n";
-    
+    var chart = new google.visualization.ComboChart(document.getElementById('chart_div'));
+	var chart2 = new google.visualization.ComboChart(document.getElementById('chart_div2'));
+    chart.draw(data, options);
+	chart2.draw(data2, options2);
   }
-  document.getElementById("demo").innerHTML = "Año - Fase - Valor " +"\n" + txt;
-}
-</script>
-</body>
+    </script>
+  </head>
+  <body>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+	 <div id="chart_div2" style="width: 900px; height: 500px;"></div>
+  </body>
 </html>
