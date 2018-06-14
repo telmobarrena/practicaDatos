@@ -3,34 +3,26 @@
   <head>
     <meta charset="UTF-8">
     <title>Weather in San Sebastian</title>
-
   </head>
   <body>
     
 	<h1>See weather at the moment</h1>
-	
 	<iframe id="formExterno" name="formExterno" src="https://www.eltiempo.es/san-sebastian.html" allow="geolocation" width="1250" height="600" ></iframe>
-	
 	<p><textarea id="demo1"></textarea></p>
 	<p><textarea id="demo2"></textarea></p>
-    
-	<!-- All of the Node.js APIs are available in this renderer process. -->
-	
+    	<!-- All of the Node.js APIs are available in this renderer process. -->
 	We are using Node.js <script>document.write(process.versions.node)</script>,
-    Chromium <script>document.write(process.versions.chrome)</script>,
-    and Electron <script>document.write(process.versions.electron)</script>.
-
+    	Chromium <script>document.write(process.versions.chrome)</script>,
+    	and Electron <script>document.write(process.versions.electron)</script>.
     <script>
 	document.getElementById('formExterno').contentWindow.document.body.onload = function(){
 		
 		var a = document.getElementById('formExterno').contentWindow.document;
-		
 		var temp = a.getElementsByClassName("m_tables_top_temp")[0].textContent.trim();
 		var txt = a.getElementsByClassName("m_tables_top_title")[0].textContent;
 		
 		document.getElementById("demo1").textContent = temp;
 		document.getElementById("demo2").textContent = txt;
-		
 		//require('./renderer.js');
 	}
     </script>
