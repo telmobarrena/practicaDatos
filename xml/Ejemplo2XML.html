@@ -5,7 +5,7 @@
 <p>Datos en miles de personas</p>
 <button type="button" onclick="loadXMLDoc()">
 see data</button>
-<p id="demo"></p>
+<p><textarea id="demo"></textarea></p>
 <script>
 function loadXMLDoc() {
   var xmlhttp = new XMLHttpRequest();
@@ -31,7 +31,7 @@ function myFunction(xml) {
     val = x[i].getElementsByTagName("Valor");
     txt += val[0].childNodes[0].nodeValue + "\n";
   }
-  document.getElementById("demo").innerHTML = "<b>Año - Fase - Valor </b>" +"\n"+ txt;
+  document.getElementById("demo").innerHTML = "Año  -   Fase  -   Valor   " +"\n"+ txt;
 }
 </script>
 </body>
