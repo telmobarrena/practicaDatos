@@ -3,8 +3,34 @@
 ## Printer manager
 Menu -> Print -> Print using system dialog...
 
-- Entrar en la web de Opendata Euskadi al apartado de datos de empleo y seleccionar el mencionado anteriormente. Se puede acceder directamente a través del siguiente link
+- Entrar en la web de Opendata Euskadi al apartado de datos de empleo y seleccionar el mencionado anteriormente. Se puede acceder directamente a través del siguiente link:
+
 <http://opendata.euskadi.eus/catalogo/-/oferta-publica-de-empleo-ope-de-la-administracion-autonomica-de-euskadi/>
+
+- 2.	Descargar el documento como RSS
+Este documento no viene como el anterior de XML en el que los datos no estaban en línea con sus etiquetas. Por tanto, no es necesario reemplazarlo por otros caracteres. Si fuese necesario, habría que seguir los pasos explicados en el capítulo 5.
+- 3.	Copiar todo el documento y pegarlo en un notepad ++
+- 4.	Guardarlo como .rss
+De esta forma ya queda preparado el documento RSS para poder ser leído mediante un código JavaSctipt. Véase en el anexo IV como ha de quedar dicho documento. Y en el anexo V el código para convertir RSS a Excel.
+Los pasos a dar para ejecutar el código se muestran a continuación:
+- 1.	Copiar el siguiente link:
+
+<https://sofiaherrador.github.io/practicaDatos/rss/EjemploRSS.html>
+
+-	Clickar encima del botón see data
+
+- 3.	Comprobar que la información en formato XML ha pasado a formato texto y separado de la siguiente manera
+
+
+
+
+
+
+
+
+
+
+
 - Printer manager
 - Printer driver
 - Printer
