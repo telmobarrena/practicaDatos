@@ -3,6 +3,7 @@
 ## Siga todos los pasos
 
 - Entrar en la web de Opendata Euskadi al apartado de datos de empleo y busque en datos de empleo con formato RSS:
+
 Oferta Pública de Empleo (OPE) de la Administración Autonómica de Euskadi
 Se puede acceder directamente a través del siguiente link:
 
@@ -15,7 +16,7 @@ Este documento no viene como el anterior de XML en el que los datos no estaban e
 
 - Guardarlo como .rss
 
-## 
+##      
 
 - En el siguiente link puede verse como ha de quedar el documento rss
 <https://github.com/sofiaherrador/practicaDatos/blob/master/rss/ope.rss>
