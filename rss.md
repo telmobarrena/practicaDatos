@@ -10,22 +10,21 @@ Se puede acceder directamente a través del siguiente link:
 <http://opendata.euskadi.eus/catalogo/-/oferta-publica-de-empleo-ope-de-la-administracion-autonomica-de-euskadi/>
 
 - Descargar el documento como RSS
-Este documento no viene como el anterior de XML en el que los datos no estaban en línea con sus etiquetas. Por tanto, no es necesario reemplazarlo por otros caracteres. Si fuese necesario, habría que seguir los pasos explicados en el capítulo 5.
+
+Este documento no viene como el anterior de XML en el que los datos no estaban en línea con sus etiquetas. Por tanto, no es necesario reemplazarlo por otros caracteres. Si fuese necesario, habría que seguir los pasos explicados en el capítulo 5 de la memoria.
 
 - Copiar todo el documento y pegarlo en un notepad ++
 
 - Guardarlo como .rss
 
-##      
-
 - En el siguiente link puede verse como ha de quedar el documento rss
 <https://github.com/sofiaherrador/practicaDatos/blob/master/rss/ope.rss>
+
 - En el siguiente link puede ver el codigo que convierte RSS a texto
 <https://github.com/sofiaherrador/practicaDatos/blob/master/rss/EjemploRSS.html>
 
-## 
+##Los pasos a dar para ejecutar el código se muestran a continuación
 
-Los pasos a dar para ejecutar el código se muestran a continuación:
 - Copiar el siguiente link:
 
 <https://sofiaherrador.github.io/practicaDatos/rss/EjemploRSS.html>
