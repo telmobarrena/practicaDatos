@@ -1,9 +1,10 @@
-# JDBC
+# RSS
 
 ## Printer manager
 Menu -> Print -> Print using system dialog...
 
 - Entrar en la web de Opendata Euskadi al apartado de datos de empleo y seleccionar el mencionado anteriormente. Se puede acceder directamente a través del siguiente link
+<http://opendata.euskadi.eus/catalogo/-/oferta-publica-de-empleo-ope-de-la-administracion-autonomica-de-euskadi/>
 - Printer manager
 - Printer driver
 - Printer
