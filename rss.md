@@ -3,7 +3,7 @@
 ## Printer manager
 Menu -> Print -> Print using system dialog...
 
-- Application
+- Entrar en la web de Opendata Euskadi al apartado de datos de empleo y seleccionar el mencionado anteriormente. Se puede acceder directamente a través del siguiente link
 - Printer manager
 - Printer driver
 - Printer
