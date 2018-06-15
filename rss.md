@@ -30,7 +30,7 @@ Los pasos a dar para ejecutar el código se muestran a continuación:
 
 - Comprobar que los datos se ven igual que en la imagen
 
-
+![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%208.PNG)
 
 
 
