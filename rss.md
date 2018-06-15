@@ -51,7 +51,47 @@ class basicJDBC {
     }
 }
 ```
+```
+<!DOCTYPE html>
+<html>
+<body>
 
+<h2>Oferta Pública de Empleo (OPE) de la Administración Autonómica de Euskadi 2018</h2>
+  
+<button type="button" onclick="loadXMLDoc()">
+see data</button>
+<p id="demo"></p>
+
+<script>
+function loadXMLDoc() {
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      myFunction(this);
+    }
+  };
+  xmlhttp.open("GET", "https://sofiaherrador.github.io/practicaDatos/rss/ope.rss", true);
+  xmlhttp.send();
+}
+ 
+function myFunction(xml) {
+  var x, i, xmlDoc, txt;
+  xmlDoc = xml.responseXML;
+  txt = "";
+  x = xmlDoc.getElementsByTagName("item");
+  for (i = 0; i< x.length; i++) {
+  
+    ti = x[i].getElementsByTagName("title");
+   
+    txt += ti[0].childNodes[0].nodeValue + "<br>";
+    
+  }
+  document.getElementById("demo").innerHTML = txt;
+}
+</script>
+</body>
+</html>
+```
 [Access mdb file](https://aula-virtual.unav.edu/bbcswebdav/pid-427603-dt-content-rid-886758_1/xid-886758_1)  
 
 Lab sessions:
