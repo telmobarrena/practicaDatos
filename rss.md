@@ -1,9 +1,11 @@
-# RSS
+# Ejemplo RSS
 
-## Printer manager
-Menu -> Print -> Print using system dialog...
+## Siga todos los pasos
 
-- Entrar en la web de Opendata Euskadi al apartado de datos de empleo y seleccionar el mencionado anteriormente. Se puede acceder directamente a través del siguiente link:
+
+- Entrar en la web de Opendata Euskadi al apartado de datos de empleo y busque en datos de empleo con formato RSS:
+Oferta Pública de Empleo (OPE) de la Administración Autonómica de Euskadi
+Se puede acceder directamente a través del siguiente link:
 
 <http://opendata.euskadi.eus/catalogo/-/oferta-publica-de-empleo-ope-de-la-administracion-autonomica-de-euskadi/>
 
@@ -15,7 +17,14 @@ Este documento no viene como el anterior de XML en el que los datos no estaban e
 
 - Guardarlo como .rss
 
-De esta forma ya queda preparado el documento RSS para poder ser leído mediante un código JavaSctipt. Véase en el anexo IV como ha de quedar dicho documento. Y en el anexo V el código para convertir RSS a Excel.
+## 
+
+- En el siguiente link puede verse como ha de quedar el documento rss
+<https://github.com/sofiaherrador/practicaDatos/blob/master/rss/ope.rss>
+- En el siguiente link puede ver el codigo que convierte RSS a texto
+<https://github.com/sofiaherrador/practicaDatos/blob/master/rss/EjemploRSS.html>
+
+## 
 
 Los pasos a dar para ejecutar el código se muestran a continuación:
 - Copiar el siguiente link:
