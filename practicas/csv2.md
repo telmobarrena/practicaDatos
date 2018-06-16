@@ -11,6 +11,7 @@ Este procedimiento es recomendable configúralo con separador decimal punto ya q
 - En find what escribir el caracter que se quiere cambiar: “,”
 - En Replace with escribir el caracter por el que se desea reemplazar: “.”
 - Click Replace all
+
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%20csv4.PNG)
 - Cambiar punto-coma por comas igual que en el punto anterior, pero con su correspondiente carácter.
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%20csv%205.PNG)
