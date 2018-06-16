@@ -4,6 +4,7 @@ Para aprender a leer documentos API y convertirlos a Excel, se va a utilizar una
 Con el fin de poder ejecutar el programa, es necesario registrarse en la página web de Marvel para obtener una clave. Los pasos a dar son los siguientes:
 - Acceder al siguiente link para registrarse:
 <https://developer.marvel.com/>
+  
   *para completar el registro es necesario verificar la cuenta mediante email
 - Una vez hecho el registro, entrar en la cuenta creada introduciendo el Username y Password
 - Ir a My Developer Account donde se puede obtener la clave privada (private key)
