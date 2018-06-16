@@ -7,12 +7,12 @@ Los pasos para preparar el documento XML son los siguientes:
 - Elegir estos filtros:
 
 		Mercado laboral
-    		Población Ocupada PRA
-	 	Población ocupada entre 25-44 años
-	  	Años entre 2008-2017
-    		Euskadi
-    		Distintas Tablas
-    		XML
+		Población Ocupada PRA
+		Población ocupada entre 25-44 años
+		Años entre 2008-2017
+		Euskadi
+		Distintas Tablas
+		XML
 - Se abre una nueva pestaña con el documento. Copiar todo el contenido
 - Pegarlo en una nueva pestaña de Notepad++
 
