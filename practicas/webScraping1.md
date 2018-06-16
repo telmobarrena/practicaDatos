@@ -18,20 +18,3 @@ Cómo desactivar barrera seguridad en google chrome:
 - Se abrirá google con un aviso
 
 De esta forma ya se puede ejecutar un código que haga una “request” a una web y poder acceder sin problemas. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
