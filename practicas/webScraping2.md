@@ -22,7 +22,6 @@ Añadir las siguientes líneas:
   
 Se verá en pantalla los datos que se buscan:
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2037.PNG)
-
 Añadir las siguientes líneas:
 
     >>f=open('tiempoSS', 'w')
@@ -32,7 +31,6 @@ Añadir las siguientes líneas:
 
 Aparecerá el número de caracteres que se han escrito en el documento generado:
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2038.PNG)
-
 Añadir las siguientes líneas:
 
     >>f.write('\n')
@@ -41,12 +39,9 @@ Añadir las siguientes líneas:
 
 El codigo al completo será así:
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2041.PNG)
-
 Se genera un documento TXT llamado tiempos.txt en la carpeta donde está guardado Python. Puede tardar unos minutos hasta estar completo.
 Después, abrir el documento tiempoSS con Notepad++:
-
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2043.PNG)
-
-Se puede ver como el programa ha recogido los datos que se estaban buscando. 
-
+Se puede ver como el programa ha recogido los datos que se estaban buscando yendo a la web:
+<https://www.eltiempo.es/donostia-san-sebastian.html>
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2039.PNG)
