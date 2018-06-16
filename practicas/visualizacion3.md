@@ -11,21 +11,32 @@ Se va a analizar el nivel de estudios en Euskadi y su evolución en el tiempo
 Se van a tener en cuenta los datos desde 1996 hasta 2016 en las 3 provincias de Euskadi y CAV para ambos documentos Excel
 - Copiar los datos que se necesitan invirtiendo columnas por filas. Para ello, copiar una columna y al pegarla en otra celda hacer 
 click en trasponer. El icono de trasponer puede verse en la siguiente imagen
+
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2028.PNG)
-- Realizar lo mismo con las filas hasta que todos los datos queden como en la imagen
+
+- Realizar lo mismo con las filas hasta que todos los datos queden como en la imagen:
+
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2029.PNG)
+
 - Conviene que la columna de CAE este en la última posición. Por tanto, cambiar de posición la columna CAE por la de Gipuzkoa 
 simplemente haciendo copiar pegar. Quedará como en la imagen:
+
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2030.PNG)
+
 - Copiar estos datos a Notepad ++ y reemplazar comas por puntos en search-> Replace
 - Separar todos los datos por comas, introducir corchetes al inicio y final de cada fila y escribir entre comillas 
 simples el texto. Estos pasos se pueden realizar mediante reemplazos. Debe quedar como en la imagen:
+
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2031.PNG)
+
 - Repetir los mismos pasos para los datos de personas con titulación universitaria
 - Los datos ya están preparados para poder ser insertados en el código de visualización, simplemente copiándolos e introduciéndolos. 
+
 <https://github.com/sofiaherrador/practicaDatos/blob/master/visualizacion/grafica.html>
 - En el siguiente link se puede visualizar la gráfica realizada
+
 <https://sofiaherrador.github.io/practicaDatos/visualizacion/grafica.html>
+
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2046.PNG)
 
 Conclusion:
