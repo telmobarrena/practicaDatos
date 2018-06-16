@@ -10,4 +10,5 @@ Los pasos a dar para ejecutar el código son los siguientes:
 - Copiar dicho texto a Excel y elegir el delimitador correspondiente
 - Comprobar que la información se ve adecuadamente
 
+
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%209.PNG)
