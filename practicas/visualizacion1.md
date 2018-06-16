@@ -22,6 +22,7 @@ Se van a comparar los datos de empleo de Euskadi en el primer periodo del 2017 p
 <https://github.com/sofiaherrador/practicaDatos/blob/master/visualizacion/DonutChart.html>
 
 En este caso no es necesario hacer ningún cálculo porque el código ya los hace, pero si fuese necesario habría que coger los datos de población total ocupada y calcular el porcentaje para cada rango. 
-- En el siguiente link se puede visualizar la gráfica generada por el código
-https://sofiaherrador.github.io/practicaDatos/visualizacion/DonutChart.html
+- En el siguiente link se puede visualizar la gráfica generada por el código:
+<https://sofiaherrador.github.io/practicaDatos/visualizacion/DonutChart.html>
+
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2044.PNG)
