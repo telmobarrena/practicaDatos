@@ -24,3 +24,5 @@ Para ello, primero es necesario descargarse tanto Node como Electron:
 - Se abre la aplicación. Comprobar que se visualiza la página web y el dato de la temperatura en formato texto.
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/capture%20Node2.png)
 - Copiar el dato y pegar en Excel
+
+También se ha realizado un ejecutable de este programa para poder ser ejecutado en git hub desktop
