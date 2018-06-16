@@ -1,5 +1,6 @@
 # practicaDatos
 
+Instrucciones para las practicas:
 
 <https://sofiaherrador.github.io/practicaDatos/practicas/csv1>
 
