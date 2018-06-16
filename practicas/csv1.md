@@ -3,7 +3,7 @@
 Para aprender cómo se puede preparar el formato CSV para después pasarlo a Excel, se va a trabajar con el ejemplo indicator.csv 
 que se puede descargar desde el singuiente enlace:
 
-<https://github.com/sofiaherrador/practicaDatos/blob/master/CSV/indicator.csv>
+<https://sofiaherrador.github.io/practicaDatos/fotos/fotos/CapturaXml6.JPG>
 
 Normalmente, al abrir el dicho documento en Excel se puede comprobar que todos los datos se visualizan correctamente en cada celda. 
 Además, no ha separado las comas, ya que, en este caso, no interesa que separe las comas, las cuales se refieren a los decimales.
