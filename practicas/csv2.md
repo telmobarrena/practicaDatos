@@ -3,7 +3,7 @@ Supongamos que ahora se quiere utilizar el archivo indicator.csv en una hoja de 
 Este procedimiento es recomendable configúralo con separador decimal punto ya que si no Drive podría confundir la coma por un separador.
 
 - Descargarse el archivo indicator.csv
-<https://github.com/sofiaherrador/practicaDatos/blob/master/CSV/indicator.csv>
+<https://sofiaherrador.github.io/practicaDatos/CSV/indicator.csv>
 - Abrir Notepad ++
 - En Notepad++, abrir el archivo CSV descargado: File, open-> Seleccionar indicator.csv
 - Una vez abierto, guardarlo como indicator.txt: File, Save as-> seleccionar el tipo TXT
