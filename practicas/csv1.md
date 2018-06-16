@@ -1,4 +1,4 @@
-# Ejemplo 1 CSV RSS
+# Ejemplo 1 CSV
 
 Para aprender cómo se puede preparar el formato CSV para después pasarlo a Excel, se va a trabajar con el ejemplo indicator.csv 
 que se puede descargar desde el singuiente enlace:
