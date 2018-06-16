@@ -39,9 +39,14 @@ Añadir las siguientes líneas:
 
 El codigo al completo será así:
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2041.PNG)
+
 Se genera un documento TXT llamado tiempos.txt en la carpeta donde está guardado Python. Puede tardar unos minutos hasta estar completo.
 Después, abrir el documento tiempoSS con Notepad++:
+
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2043.PNG)
+
 Se puede ver como el programa ha recogido los datos que se estaban buscando yendo a la web:
+
 <https://www.eltiempo.es/donostia-san-sebastian.html>
+
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2039.PNG)
