@@ -2,37 +2,42 @@
 Web scraping con Python: Se desea obtener la temperatura actual en Donostia y guardar dicho dato en formato texto
 Para ello abrir Python y escribir línea por línea lo siguiente:
 
-    - >>import requests
+    >>import requests
     >>from bs4 import BeautifulSoup
-    - page=requests.get("https://www.eltiempo.es/donostia-san-sebastian.html")
-    - soup=BeautifulSoup(page.content,'html.parser')
-    - seven_day=soup.find(id="topHeader")
-    - forecast_items=seven_day.find_all(class_="m_tables_top_temp")
-    - tonight=forecast_items[0]
-    - print(tonight.prettify())
+    >>page=requests.get("https://www.eltiempo.es/donostia-san-sebastian.html")
+    >>soup=BeautifulSoup(page.content,'html.parser')
+    >>seven_day=soup.find(id="topHeader")
+    >>forecast_items=seven_day.find_all(class_="m_tables_top_temp")
+    >>tonight=forecast_items[0]
+    >>print(tonight.prettify())
 
 Aparecerá todo el código del que interesa obtener los datos:
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2037.PNG)
+Añadir las siguientes líneas:
 
-    - period1=tonight.find("span").get_text()
-    - period2=tonight.find("sup").get_text()
-    - print(period1)
-    - print(period2)
+    >>period1=tonight.find("span").get_text()
+    >>period2=tonight.find("sup").get_text()
+    >>print(period1)
+    >>print(period2)
   
 Se verá en pantalla los datos que se buscan:
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2037.PNG)
 
-    - f=open('tiempoSS', 'w')
-    - p1=str(period1)
-    - p2=str(period2)
-    - f.write(p1)
+Añadir las siguientes líneas:
+
+    >>f=open('tiempoSS', 'w')
+    >>p1=str(period1)
+    >>p2=str(period2)
+    >>f.write(p1)
 
 Aparecerá el número de caracteres que se han escrito en el documento generado:
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2038.PNG)
 
-    - f.write('\n')
-    - f.write(p2)
-    - f.close()
+Añadir las siguientes líneas:
+
+    >>f.write('\n')
+    >>f.write(p2)
+    >>f.close()
 
 El codigo al completo será así:
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2041.PNG)
