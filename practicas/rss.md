@@ -1,7 +1,5 @@
 # Ejemplo RSS
 
-## Siga todos los pasos
-
 - Entrar en la web de Opendata Euskadi al apartado de datos de empleo y busque en datos de empleo con formato RSS:
 
 Oferta Pública de Empleo (OPE) de la Administración Autonómica de Euskadi
