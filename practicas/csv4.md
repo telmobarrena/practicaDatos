@@ -12,3 +12,5 @@
 - Importar el documento TXT a la hoja de cálculo: archivo-> importar-> seleccionar indicator.txt
 - Se abrirá un cuadro adicional donde se han de rellenar los siguientes campos
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%20csv%20excel.PNG)
+- Hacer click encima de abrir ahora y comprobar que los caracteres se visualizan correctamente como en la imagen
+![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%201.PNG)
