@@ -1,4 +1,4 @@
-# Ejemplo 23 Web Scraping
+# Ejemplo 3 Web Scraping
 Web scraping con Node: Se desea obtener la temperatura actual en Donostia en formato texto
 Para ello, primero es necesario descargarse tanto Node como Electron:
 - Descargar node como ZIP desde: <https://nodejs.org/download/release/latest-v9.x/>
