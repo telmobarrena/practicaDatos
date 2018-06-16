@@ -29,8 +29,8 @@ Los pasos a dar para convertir dicho documento XML a Excel se muestran a continu
 - Hacer click encima del botón see data
 - Comprobar que la información en formato XML ha pasado a formato texto y separado por punto y coma de la siguiente manera:
 
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Captura3.JPG)
+![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/CapturaXml4.JPG)
 - Copiar dicho texto a Excel y elegir el delimitador correspondiente
 - Comprobar que los datos se ven igual que en la imagen:
 
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%207.PNG)
+![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/CapturaXml6.JPG)
