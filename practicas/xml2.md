@@ -1,18 +1,19 @@
 # Ejemplo 2 XML
 
-En el caso de que haya más información en formato XML que en el ejemplo anterior, será más complicado leerla. 
-Lo recomendable es guardar dicha información en un documento XML. El código a ejecutar deberá abrir y convertir el fichero en un formato adecuado para leerlo en Excel.
+En el caso de que haya más información en formato XML que en el ejemplo anterior, será más complicado leerla. Lo recomendable es guardar dicha información en un documento XML. El código a ejecutar deberá abrir y convertir el fichero en un formato adecuado para leerlo en Excel.
 Los pasos para preparar el documento XML son los siguientes:
 - Entrar en la web de Ikerbide al apartado de base de datos coyunturales:
 <http://www.euskadi.eus/ikerbide-base-de-datos/web01-s2oga/es/>
 - Elegir estos filtros:
-    Mercado laboral
-    Población Ocupada PRA
+		- Mercado laboral
+    		- Población Ocupada PRA
+		
+		
 	  Población ocupada entre 25-44 años
 	  Años entre 2008-2017
-    Euskadi
-    Distintas Tablas
-    XML
+    	Euskadi
+    	Distintas Tablas
+    	XML
 - Se abre una nueva pestaña con el documento. Copiar todo el contenido
 - Pegarlo en una nueva pestaña de Notepad++
 
