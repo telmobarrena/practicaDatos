@@ -21,7 +21,7 @@ Añadir las siguientes líneas:
     >>print(period2)
   
 Se verá en pantalla los datos que se buscan:
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2037.PNG)
+![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2038.PNG)
 Añadir las siguientes líneas:
 
     >>f=open('tiempoSS', 'w')
