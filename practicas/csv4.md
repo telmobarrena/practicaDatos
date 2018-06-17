@@ -14,4 +14,4 @@
 ![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%20csv%20excel.PNG)
 - Hacer click encima de abrir ahora y comprobar que los caracteres se visualizan correctamente como en la imagen
 
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%201.PNG)
+![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/CapturaDrive.JPG)
