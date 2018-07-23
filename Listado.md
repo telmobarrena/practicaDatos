@@ -2,7 +2,7 @@
 
 Instrucciones para las practicas:
 
-[Practica csv1](practicas/csv1.md)>
+[Practica csv1](practicas/csv1.md)
 
 <practicas/csv2>
 
