@@ -10,7 +10,7 @@ Instrucciones para las practicas:
 
 <practicas/csv4>
 
-(practicas/xml1)
+[xml1](practicas/xml1)
 
 <practicas/xml2>
 
