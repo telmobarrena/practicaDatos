@@ -12,22 +12,22 @@ Se van a tener en cuenta los datos desde 1996 hasta 2016 en las 3 provincias de 
 - Copiar los datos que se necesitan invirtiendo columnas por filas. Para ello, copiar una columna y al pegarla en otra celda hacer 
 click en trasponer. El icono de trasponer puede verse en la siguiente imagen
 
-![List of categories](fotos/fotos/Capture%2028.PNG)
+![List of categories](../fotos/fotos/Capture%2028.PNG)
 
 - Realizar lo mismo con las filas hasta que todos los datos queden como en la imagen:
 
-![List of categories](fotos/fotos/Capture%2029.PNG)
+![List of categories](../fotos/fotos/Capture%2029.PNG)
 
 - Conviene que la columna de CAE este en la última posición. Por tanto, cambiar de posición la columna CAE por la de Gipuzkoa 
 simplemente haciendo copiar pegar. Quedará como en la imagen:
 
-![List of categories](fotos/fotos/Capture%2030.PNG)
+![List of categories](../fotos/fotos/Capture%2030.PNG)
 
 - Copiar estos datos a Notepad ++ y reemplazar comas por puntos en search-> Replace
 - Separar todos los datos por comas, introducir corchetes al inicio y final de cada fila y escribir entre comillas 
 simples el texto. Estos pasos se pueden realizar mediante reemplazos. Debe quedar como en la imagen:
 
-![List of categories](fotos/fotos/Capture%2031.PNG)
+![List of categories](../fotos/fotos/Capture%2031.PNG)
 
 - Repetir los mismos pasos para los datos de personas con titulación universitaria
 - Los datos ya están preparados para poder ser insertados en el código de visualización, simplemente copiándolos e introduciéndolos. 
@@ -37,7 +37,7 @@ simples el texto. Estos pasos se pueden realizar mediante reemplazos. Debe queda
 
 <visualizacion/grafica.html>
 
-![List of categories](fotos/fotos/Capture%2046.PNG)
+![List of categories](../fotos/fotos/Capture%2046.PNG)
 
 Conclusion:
 De esta forma se ha podido preparar unos datos y visualizarlos. Comparando ambas gráficas se ve como ha ocurrido un gran cambio entre los años 2010 y 2013 en la educación de Euskadi. Si se analizan las circunstancias de esos años es fácil darse cuenta de que la época de crisis ha afectado notablemente a la búsqueda de empleo y es por ello que la mayoría de vascos optan por seguir estudiando. Esto ha hecho que actualmente el nivel de estudios de Euskadi haya subido considerablemente. Además, las gráficas nos permiten comparar cada provincia concluyendo que Bizkaia es la provincia con más titulados universitarios.

@@ -9,8 +9,8 @@ Estos son los pasos a seguir:
 - Clickar encima del botón see information
 - Comprobar que la información en formato JSON ha pasado a formato texto y separado por punto y coma de la siguiente manera:
 
-![List of categories](fotos/fotos/CapturaJson7.JPG)
+![List of categories](../fotos/fotos/CapturaJson7.JPG)
 - Copiar dicho texto a Excel y elegir el delimitador correspondiente
 - Comprobar que los datos se ven igual que en la imagen
 
-![List of categories](fotos/fotos/Capture%2011.PNG)
+![List of categories](../fotos/fotos/Capture%2011.PNG)

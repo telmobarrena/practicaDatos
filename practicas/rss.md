@@ -22,4 +22,4 @@ Este documento no viene como el anterior de XML en el que los datos no estaban e
 - Comprobar que la información en formato XML ha pasado a formato texto y separado de la siguiente manera
 - Copiar dicho texto a Excel. En este caso la información ya aparecerá de forma adecuada separada
 - Comprobar que los datos se ven igual que en la imagen
-![List of categories](fotos/fotos/Capture%208.PNG)
+![List of categories](../fotos/fotos/Capture%208.PNG)

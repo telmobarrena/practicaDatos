@@ -11,7 +11,7 @@
 - Abrir una hoja de cálculo en Drive
 - Importar el documento TXT a la hoja de cálculo: archivo-> importar-> seleccionar indicator.txt
 - Se abrirá un cuadro adicional donde se han de rellenar los siguientes campos
-![List of categories](fotos/fotos/Capture%20csv%20excel.PNG)
+![List of categories](../fotos/fotos/Capture%20csv%20excel.PNG)
 - Hacer click encima de abrir ahora y comprobar que los caracteres se visualizan correctamente como en la imagen
 
-![List of categories](fotos/fotos/CapturaDrive.JPG)
+![List of categories](../fotos/fotos/CapturaDrive.JPG)

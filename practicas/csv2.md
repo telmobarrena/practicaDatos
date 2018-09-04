@@ -12,9 +12,9 @@ Este procedimiento es recomendable configúralo con separador decimal punto ya q
 - En Replace with escribir el caracter por el que se desea reemplazar: “.”
 - Click Replace all
 
-![List of categories](fotos/fotos/Capture%20csv4.PNG)
+![List of categories](../fotos/fotos/Capture%20csv4.PNG)
 - Cambiar punto-coma por comas igual que en el punto anterior, pero con su correspondiente carácter.
-![List of categories](fotos/fotos/Capture%20csv%205.PNG)
+![List of categories](../fotos/fotos/Capture%20csv%205.PNG)
 - Guardar el documento de texto
 - Abrir en Excel el documento de texto: File, open -> seleccionar el archivo indicator.txt
 - Se abrirá un cuadro adicional donde hay que elegir el delimitador coma tal como se ha explicado anteriormente 

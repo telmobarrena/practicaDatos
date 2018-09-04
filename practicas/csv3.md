@@ -11,6 +11,6 @@ Existe otra forma de visualizar un archivo CSV en una hoja de cálculo online. E
 - Seleccionar indicator.txt-> import
 - Se abrirá un cuadro adicional donde seleccionar el delimitador coma 
 - Elegir dónde se va a colocar el texto: Hacer click en Existing worksheet y escribir el número de celda
-![List of categories](fotos/fotos/Capture%20csv%206.PNG)
+![List of categories](../fotos/fotos/Capture%20csv%206.PNG)
 - Guardar como indicator.xlsx: file, save as-> seleccionar tipo Excel worksheet 
 - Subir el archivo a Drive y abrirlo mediante una hoja de cálculo

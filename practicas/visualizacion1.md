@@ -25,4 +25,4 @@ En este caso no es necesario hacer ningún cálculo porque el código ya los hac
 - En el siguiente link se puede visualizar la gráfica generada por el código:
 <visualizacion/DonutChart.html>
 
-![List of categories](fotos/fotos/Capture%2044.PNG)
+![List of categories](../fotos/fotos/Capture%2044.PNG)

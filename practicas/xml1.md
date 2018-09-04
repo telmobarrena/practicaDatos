@@ -5,7 +5,7 @@ Los pasos a dar para ejecutar el código son los siguientes:
 - Abrir el navegador web (recomendado Google Chrome) y copiar el siguiente link:
 <xml/EjemploXML.html>
 - Comprobar que la información en formato XML ha pasado a formato texto y separado por comas de la siguiente manera
-![List of categories](fotos/fotos/Capture%20xml%20b.PNG)
+![List of categories](../fotos/fotos/Capture%20xml%20b.PNG)
   *Nota: puede ampliar la caja de texto arrastrando la esquina inferior derecha
 - Copiar dicho texto a Excel de forma que se vea como en la imagen
-![List of categories](fotos/fotos/Capture%206.PNG)
+![List of categories](../fotos/fotos/Capture%206.PNG)

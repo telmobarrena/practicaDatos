@@ -6,9 +6,9 @@ Los pasos a dar para ejecutar el código son los siguientes:
 <Json/ejemploJSONsencillo.html>
 - Comprobar que la información en formato JSON ha pasado a formato texto y separado por comas de la siguiente manera:
 
-![List of categories](fotos/fotos/CapturaJson6.JPG)
+![List of categories](../fotos/fotos/CapturaJson6.JPG)
 - Copiar dicho texto a Excel y elegir el delimitador correspondiente
 - Comprobar que la información se ve adecuadamente
 
 
-![List of categories](fotos/fotos/Capture%209.PNG)
+![List of categories](../fotos/fotos/Capture%209.PNG)
