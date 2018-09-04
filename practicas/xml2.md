@@ -25,12 +25,12 @@ Por ello, se va a reemplazar por un espacio, de forma que después el código en
 A continuación, se ha preparado un código que lee este documento XML y lo convierte a texto para poder ser tratado en Excel.
 Los pasos a dar para convertir dicho documento XML a Excel se muestran a continuación:
 - Entrar el siguiente link:
-<https://sofiaherrador.github.io/practicaDatos/xml/Ejemplo2XML.html>
+<xml/Ejemplo2XML.html>
 - Hacer click encima del botón see data
 - Comprobar que la información en formato XML ha pasado a formato texto y separado por punto y coma de la siguiente manera:
 
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/CapturaXml4.JPG)
+![List of categories](fotos/fotos/CapturaXml4.JPG)
 - Copiar dicho texto a Excel y elegir el delimitador correspondiente
 - Comprobar que los datos se ven igual que en la imagen:
 
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/CapturaXml6.JPG)
+![List of categories](fotos/fotos/CapturaXml6.JPG)

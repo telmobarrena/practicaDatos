@@ -17,9 +17,9 @@ Este documento no viene como el anterior de XML en el que los datos no estaban e
 - En el siguiente link puede ver el codigo que convierte RSS a texto
 <https://github.com/sofiaherrador/practicaDatos/blob/master/rss/EjemploRSS.html>
 - Copiar el siguiente link:
-<https://sofiaherrador.github.io/practicaDatos/rss/EjemploRSS.html>
+<rss/EjemploRSS.html>
 - Clickar encima del botón see data
 - Comprobar que la información en formato XML ha pasado a formato texto y separado de la siguiente manera
 - Copiar dicho texto a Excel. En este caso la información ya aparecerá de forma adecuada separada
 - Comprobar que los datos se ven igual que en la imagen
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%208.PNG)
+![List of categories](fotos/fotos/Capture%208.PNG)

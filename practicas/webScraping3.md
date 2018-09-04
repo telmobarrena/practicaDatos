@@ -5,7 +5,7 @@ Para ello, primero es necesario descargarse tanto Node como Electron:
 - Escoger: node-v9.11.1-win-x64.zip
 - Descargar Electron como ZIP desde: <https://github.com/electron/electron-quick-start>
 - Hacer click en download zip:
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/captureElectron.png)
+![List of categories](fotos/fotos/captureElectron.png)
 - Crear una carpeta en p llamada node 
 - Descomprimir ambos zip y guardarlos en P:\node
 - Ir a la carpeta donde se ha guardado Electron y abrir en Notepad ++ el documento index.html
@@ -22,7 +22,7 @@ Para ello, primero es necesario descargarse tanto Node como Electron:
 
 - Aparecerá: up to date in 0.047s (u otros segundos)
 - Se abre la aplicación. Comprobar que se visualiza la página web y el dato de la temperatura en formato texto.
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/capture%20Node2.png)
+![List of categories](fotos/fotos/capture%20Node2.png)
 - Copiar el dato y pegar en Excel
 
 También se ha realizado un ejecutable de este programa para poder ser ejecutado en git hub desktop

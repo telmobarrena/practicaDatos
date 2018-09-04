@@ -2,34 +2,34 @@
 
 Instrucciones para las practicas:
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/csv1>
+<practicas/csv1>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/csv2>
+<practicas/csv2>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/csv3>
+<practicas/csv3>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/csv4>
+<practicas/csv4>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/xml1>
+<practicas/xml1>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/xml2>
+<practicas/xml2>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/rss>
+<practicas/rss>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/json1>
+<practicas/json1>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/json2>
+<practicas/json2>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/api>
+<practicas/api>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/webScraping1>
+<practicas/webScraping1>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/webScraping2>
+<practicas/webScraping2>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/webScraping3>
+<practicas/webScraping3>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/visualizacion1>
+<practicas/visualizacion1>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/visualizacion2>
+<practicas/visualizacion2>
 
-<https://sofiaherrador.github.io/practicaDatos/practicas/visualizacion3>
+<practicas/visualizacion3>

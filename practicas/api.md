@@ -9,15 +9,15 @@ Con el fin de poder ejecutar el programa, es necesario registrarse en la página
 - Una vez hecho el registro, entrar en la cuenta creada introduciendo el Username y Password
 - Ir a My Developer Account donde se puede obtener la clave privada (private key)
 
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2012.PNG)
+![List of categories](fotos/fotos/Capture%2012.PNG)
 - Copiar la clave privada ya que es necesaria para ejecutar el código
 - Entrar en el siguiente link:
-<https://sofiaherrador.github.io/practicaDatos/API/Marvel.html>
+<API/Marvel.html>
 - En la caja de texto, pegar la clave privada de Marvel y hacer click en Get Data
 - Comprobar que se ve lo mismo que en la imagen
 
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2013.PNG)
+![List of categories](fotos/fotos/Capture%2013.PNG)
 - A continuación, copiar la información en formato texto y pegarla en Excel. (Las imágenes no hace falta copiarlas)
 - Comprobar que se ve de esta forma en Excel.
 
-![List of categories](https://sofiaherrador.github.io/practicaDatos/fotos/fotos/Capture%2014.PNG)
+![List of categories](fotos/fotos/Capture%2014.PNG)
