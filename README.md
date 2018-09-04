@@ -2,34 +2,34 @@
 
 Instrucciones para las practicas:
 
-<practicas/csv1>
+[practica csv1](practica csv1)
 
-<practicas/csv2>
+[practica csv2](practica csv2)
 
-<practicas/csv3>
+[practica csv3](practica csv3)
 
-<practicas/csv4>
+[practica csv4](practica csv4)
 
-[xml1](practicas/xml1)
+[practica xml1](practica xml1)
 
-<practicas/xml2>
+[practica xml2](practica xml2)
 
-<practicas/rss>
+[practica rss](practica rss)
 
-<practicas/json1>
+[practica json1](practica json1)
 
-<practicas/json2>
+[practica json2](practica json2)
 
-<practicas/api>
+[practica api](practica api)
 
-<practicas/webScraping1>
+[practica webScraping1](practica webScraping1)
 
-<practicas/webScraping2>
+[practica webScraping2](practica webScraping2)
 
-<practicas/webScraping3>
+[practica webScraping3](practica webScraping3)
 
-<practicas/visualizacion1>
+[practica visualizacion1](practica visualizacion1)
 
-<practicas/visualizacion2>
+[practica visualizacion2](practica visualizacion2)
 
-<practicas/visualizacion3>
+[practica visualizacion3](practica visualizacion3)
