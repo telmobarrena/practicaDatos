@@ -1,4 +1,8 @@
-# practicaDatos
+# Referencias
+- [Editor hexadecimal](https://hexed.it/)
+- [Tabla ASCII](https://ascii.cl/)
+
+# Practicas Datos
 
 Instrucciones para las practicas:
 
