@@ -11,8 +11,8 @@ Con el fin de poder ejecutar el programa, es necesario registrarse en la página
 
 ![List of categories](../fotos/fotos/Capture%2012.PNG)
 - Copiar la clave privada ya que es necesaria para ejecutar el código
-- Entrar en el siguiente link:
-<API/Marvel.html>
+- Entrar en el siguiente link:  
+[Marvel.html](../API/Marvel.html)
 - En la caja de texto, pegar la clave privada de Marvel y hacer click en Get Data
 - Comprobar que se ve lo mismo que en la imagen
 
