@@ -24,8 +24,8 @@ Por ello, se va a reemplazar por un espacio, de forma que después el código en
 
 A continuación, se ha preparado un código que lee este documento XML y lo convierte a texto para poder ser tratado en Excel.
 Los pasos a dar para convertir dicho documento XML a Excel se muestran a continuación:
-- Entrar el siguiente link:
-<xml/Ejemplo2XML.html>
+- Entrar en el siguiente link:
+[Ejemplo2XML.html](../xml/Ejemplo2XML.html)
 - Hacer click encima del botón see data
 - Comprobar que la información en formato XML ha pasado a formato texto y separado por punto y coma de la siguiente manera:
 
