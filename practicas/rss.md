@@ -12,9 +12,8 @@ Este documento no viene como el anterior de XML en el que los datos no estaban e
 
 - Copiar todo el documento y pegarlo en un notepad ++
 - Guardarlo como .rss
-- En el siguiente link puede verse como ha de quedar el documento rss
+- En el siguiente link puede verse como ha de quedar el documento rss  
 [ope.rss](../rss/ope.rss)
-<https://github.com/sofiaherrador/practicaDatos/blob/master/rss/ope.rss>
 - En el siguiente link puede ver la página con el codigo que convierte RSS a texto
 [EjemploRSS.html](../rss/EjemploRSS.html)
 - Clickar encima del botón see data
