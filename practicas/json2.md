@@ -5,7 +5,7 @@ Para el segundo ejemplo se va a leer un documento en formato JSON que ha sido ob
 
 Estos son los pasos a seguir:
 - Copiar el siguiente link:
-<Json/Ejemplo2Json.html>
+[Ejemplo2Json.html](../Json/Ejemplo2Json.html)
 - Clickar encima del botón see information
 - Comprobar que la información en formato JSON ha pasado a formato texto y separado por punto y coma de la siguiente manera:
 
