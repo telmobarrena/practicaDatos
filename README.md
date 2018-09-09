@@ -1,4 +1,4 @@
-Code(https://github.com/nicolasserrano/practicaDatos) - [View and execute](https://nicolasserrano.github.io/practicaDatos)
+[Code](https://github.com/nicolasserrano/practicaDatos) - [View and execute](https://nicolasserrano.github.io/practicaDatos)
 
 # Referencias
 - [Editor hexadecimal](https://hexed.it/)
