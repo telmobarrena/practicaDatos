@@ -3,6 +3,9 @@
 # Referencias
 - [Editor hexadecimal](https://hexed.it/)
 - [Tabla ASCII](https://ascii.cl/)
+- [JavaScript](https://nicolasserrano.github.io/CS/JavaScript/JavascriptOnePage.pdf)
+- [XML DOM](https://www.w3schools.com/xml/dom_intro.asp)
+- [JSON](https://nicolasserrano.github.io/CS/JavaScript#json)
 
 # Practicas Datos
 
