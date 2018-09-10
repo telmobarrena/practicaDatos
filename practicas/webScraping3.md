@@ -25,4 +25,3 @@ Para ello, primero es necesario descargarse tanto Node como Electron:
 ![List of categories](../fotos/fotos/capture%20Node2.png)
 - Copiar el dato y pegar en Excel
 
-También se ha realizado un ejecutable de este programa para poder ser ejecutado en git hub desktop
