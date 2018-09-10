@@ -39,3 +39,10 @@ Opcional con Python: [practica webScraping2](practicas/webScraping2)
 [practica visualizacion2](practicas/visualizacion2)
 
 [practica visualizacion3](practicas/visualizacion3)
+
+# Ejemplos de origines de datos
+- [Datos abiertos Donostia](https://www.donostia.eus/datosabiertos/)
+- [Open Data Euskadi](http://opendata.euskadi.eus/inicio/)
+- [Open data initiative of the Government of Spain](http://datos.gob.es/en)
+- [EU Open Data Portal](https://data.europa.eu/euodp/en/home)
+
