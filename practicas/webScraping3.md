@@ -9,8 +9,8 @@ Para ello, primero es necesario descargarse tanto Node como Electron:
 - Crear una carpeta en p llamada node 
 - Descomprimir ambos zip y guardarlos en P:\node
 - Ir a la carpeta donde se ha guardado Electron y abrir en Notepad ++ el documento index.html
-- Reemplazar el código por el que viene en el siguiente link:
-<https://github.com/sofiaherrador/practicaDatos/blob/master/Web%20Scraping/node/index.html<
+- Reemplazar el código por el que viene en el siguiente link:  
+[index.html](../node/index.html)
 - Abrir command prompt y escribir:
 
       >>set path=P:\node\node-v9.11.1-win-x64;%path%
