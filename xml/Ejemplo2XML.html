@@ -24,14 +24,14 @@ function myFunction(xml) {
   x = xmlDoc.getElementsByTagName("datosvalor");
   for (i = 0; i< x.length; i++) {
     an = x[i].getElementsByTagName("Año");
-    txt += an[0].childNodes[0].nodeValue.trim() + "; ";
+    txt += an[0].childNodes[0].nodeValue.trim() + ";";
     per = x[i].getElementsByTagName("periodo");  
-    txt += per[0].childNodes[0].nodeValue.trim() + "; ";
+    txt += per[0].childNodes[0].nodeValue.trim() + ";";
     ve = x[i].getElementsByTagName("ValorEntidad");
     val = x[i].getElementsByTagName("Valor");
     txt += val[0].childNodes[0].nodeValue.trim() + "\n";
   }
-  document.getElementById("demo").value = "Año  -   Fase  -   Valor   " +"\n"+ txt;
+  document.getElementById("demo").value = "Año;Fase;Valor" +"\n"+ txt;
 }
 </script>
 </body>
