@@ -31,6 +31,4 @@ Los pasos a dar para convertir dicho documento XML a Excel se muestran a continu
 
 ![List of categories](../fotos/fotos/CapturaXml4.JPG)
 - Copiar dicho texto a Excel y elegir el delimitador correspondiente
-- Comprobar que los datos se ven igual que en la imagen:
 
-![List of categories](../fotos/fotos/CapturaXml6.JPG)
