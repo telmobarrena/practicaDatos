@@ -30,7 +30,7 @@ Instrucciones para las practicas:
 
 [practica webScraping1](practicas/webScraping1)
 
-[practica webScraping2](practicas/webScraping2)
+Opcional con Python: [practica webScraping2](practicas/webScraping2)
 
 [practica webScraping3](practicas/webScraping3)
 
