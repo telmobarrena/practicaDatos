@@ -4,6 +4,8 @@
   </head>
   <body>
 	<div id="content"></div>
+	<p><b>Insert your publci key</b></p>
+    	<input id="Pub_KEY" value="5d57b5486472bed47fabbe9c0c90fa42" size='50' > </input>
 	<p><b>Insert your private key</b></p>
     	<input id="KEY" onChange="getMarvelResponse(this.value)" size='50' > </input>
 	<p></p>
@@ -23,14 +25,14 @@ function getMarvelResponse(key) {
   
   var PRIV_KEY = key;
 
-  var PUBLIC_KEY = "5d57b5486472bed47fabbe9c0c90fa42";
+  var PUBLIC_KEY = document.getElementById("Pub_KEY").value;
   var ts = new Date().getTime();
   var hash = CryptoJS.MD5(ts + PRIV_KEY + PUBLIC_KEY).toString();
   var characterId = '1009718'; // wolverine                                                                             
   var url = 'http://gateway.marvel.com:80/v1/public/comics';
   var request = new XMLHttpRequest();
     
-    request.open('GET', 'https://gateway.marvel.com:443/v1/public/characters?apikey=5d57b5486472bed47fabbe9c0c90fa42&ts=' + ts + 
+    request.open('GET', 'https://gateway.marvel.com:443/v1/public/characters?apikey=' + PUBLIC_KEY + '&ts=' + ts + 
 	  '&hash=' + hash, true);
     request.onreadystatechange = function() {
       if (request.status >= 200 && request.status < 400) {
