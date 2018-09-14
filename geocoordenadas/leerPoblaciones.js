@@ -9,4 +9,5 @@ function leerPoblaciones() {
       str += ",'" + villagesTR[i].children[2].textContent.replace("'"," ").replace("'"," ").replace("\n","") + " " + long + " " + lat + "'],"
       str += "\n"
     }
+    return str;
 }
