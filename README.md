@@ -55,7 +55,7 @@ Opcional con Python: [practica webScraping2](practicas/webScraping2)
 
 # Coordenadas geográficas
 - [Coordenadas de poblaciones](https://www.businessintelligence.info/assets/listado-longitud-latitud-municipios-espana.html)
-- [Funcion JavaScript para leer coordenadas](geocoordenadas/leerPoblaciones.js)
+- [Funcion JavaScript para leer coordenadas](geocoordenadas/leerPoblaciones.js) Función Excel para crear JSON: =CONCATENATE("[";SUBSTITUTE(E4;",";".");",";SUBSTITUTE(D4;",";".");",'";SUBSTITUTE(C4;"'";" ");"'],")
 - [Poblaciones en ScatterChart](geocoordenadas/ScatterChart1.html)
 
 ## Coordenadas UTM
