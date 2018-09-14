@@ -54,6 +54,9 @@ Opcional con Python: [practica webScraping2](practicas/webScraping2)
 
 # Coordenadas geográficas
 - [Coordenadas de poblaciones](https://www.businessintelligence.info/assets/listado-longitud-latitud-municipios-espana.html)
-- [Poblaciones en ScatterChart](../geocoordenadas/ScatterChart1.html)
-
+- [Poblaciones en ScatterChart](geocoordenadas/ScatterChart1.html)
+- [UTM coordinates](https://upload.wikimedia.org/wikipedia/commons/e/ed/Utm-zones.jpg)
+- [Geoplaner](https://www.geoplaner.com/)
+- [Gipuzkoa Spatial Data Infrastructure](https://b5m.gipuzkoa.eus/url5000/index.php?lengua=0)
+- [Conversor coordenadas](https://github.com/TimothyGu/utm)
 
