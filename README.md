@@ -49,3 +49,11 @@ Opcional con Python: [practica webScraping2](practicas/webScraping2)
 - [Open data initiative of the Government of Spain](http://datos.gob.es/en)
 - [EU Open Data Portal](https://data.europa.eu/euodp/en/home)
 
+# Ejemplos de API
+- [Rapid API](https://rapidapi.com/)
+
+# Coordenadas geográficas
+- [Coordenadas de poblaciones](https://www.businessintelligence.info/assets/listado-longitud-latitud-municipios-espana.html)
+- [Poblaciones en ScatterChart](../geocoordenadas/ScatterChart1.html)
+
+
