@@ -2,11 +2,11 @@
 Se va a analizar el nivel de estudios en Euskadi y su evolución en el tiempo
 
 - Se van a tener en cuenta los datos recogidos en formato CSV del ejemplo 1 de CSV. Pueden descargarse desde este link:
-<CSV/indicator.csv>
+[indicator.csv](../CSV/indicator.csv)
 - Para recoger el resto de datos entrar en la web de Ikerbide al apartado de base de datos coyunturales: 
 <http://www.euskadi.eus/ikerbide-base-de-datos/web01-s2oga/es/>
 - Para preparar los datos y convertirlos a Excel seguir los pasos de la practica 1 de CSV:
-<practicas/csv1>
+[Practica csv1](../practicas/csv1)
 
 Se van a tener en cuenta los datos desde 1996 hasta 2016 en las 3 provincias de Euskadi y CAV para ambos documentos Excel
 - Copiar los datos que se necesitan invirtiendo columnas por filas. Para ello, copiar una columna y al pegarla en otra celda hacer 
@@ -31,11 +31,8 @@ simples el texto. Estos pasos se pueden realizar mediante reemplazos. Debe queda
 
 - Repetir los mismos pasos para los datos de personas con titulación universitaria
 - Los datos ya están preparados para poder ser insertados en el código de visualización, simplemente copiándolos e introduciéndolos. 
-
-<https://github.com/sofiaherrador/practicaDatos/blob/master/visualizacion/grafica.html>
 - En el siguiente link se puede visualizar la gráfica realizada
-
-<visualizacion/grafica.html>
+[grafica.html](../visualizacion/grafica.html)
 
 ![List of categories](../fotos/fotos/Capture%2046.PNG)
 
