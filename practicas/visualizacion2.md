@@ -12,8 +12,7 @@ Se van a comparar los datos de empleo de Euskadi en el primer periodo del 2017 p
       Euskadi
       Distintas Tablas
       XML
-- Seguir los pasos explicados en la practica 2 de XML para converir a texto estos datos:
-<practicas/xml2>
+- Seguir los pasos explicados en la practica 2 de XML para converir a texto estos datos:[practica xml2](../practicas/xml2)
 
 - Una vez obtenidos los datos, escoger solo los datos del primer periodo del 2017. Para ello basta con copiarlos y pegarlos en el código del fichero. 
 - En el siguiente link se puede visualizar la gráfica generada por el código:
