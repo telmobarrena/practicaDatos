@@ -48,15 +48,18 @@ Opcional con Python: [practica webScraping2](practicas/webScraping2)
 - [Open Data Euskadi](http://opendata.euskadi.eus/inicio/)
 - [Open data initiative of the Government of Spain](http://datos.gob.es/en)
 - [EU Open Data Portal](https://data.europa.eu/euodp/en/home)
+- [Temperaturas en xml y WebScraping](http://www.aemet.es/es/eltiempo/prediccion/espana?w=13)
 
 # Ejemplos de API
 - [Rapid API](https://rapidapi.com/)
 
 # Coordenadas geográficas
 - [Coordenadas de poblaciones](https://www.businessintelligence.info/assets/listado-longitud-latitud-municipios-espana.html)
+- [Funcion JavaScript para leer coordenadas](geocoordenadas/leerPoblaciones.js)
 - [Poblaciones en ScatterChart](geocoordenadas/ScatterChart1.html)
+
 - [UTM coordinates](https://upload.wikimedia.org/wikipedia/commons/e/ed/Utm-zones.jpg)
 - [Geoplaner](https://www.geoplaner.com/)
 - [Gipuzkoa Spatial Data Infrastructure](https://b5m.gipuzkoa.eus/url5000/index.php?lengua=0)
-- [Conversor coordenadas](https://github.com/TimothyGu/utm)
+- [Conversor coordenadas](https://github.com/TimothyGu/utm) - [Funciones JS](geocoordenadas/utm.html)
 
