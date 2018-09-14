@@ -17,6 +17,6 @@ Se van a comparar los datos de empleo de Euskadi en el primer periodo del 2017 p
 
 - Una vez obtenidos los datos, escoger solo los datos del primer periodo del 2017. Para ello basta con copiarlos y pegarlos en el código del fichero. 
 - En el siguiente link se puede visualizar la gráfica generada por el código:
-[donutChartSexo](../visualizacion/donutChartSexo.html)
+[donutChartSexo.html](../visualizacion/donutChartSexo.html)
 
 ![List of categories](../fotos/fotos/Capture%2045.PNG)
