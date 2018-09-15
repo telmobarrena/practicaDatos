@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+<head>  
+<script type="text/javascript" src="pobData.js"></script>
+<script>
+window.onload = function () {
+
+dataPoints = [];
+for (i=0;i<obj.length;i++) {
+  elem = {};
+  elem.x =obj[i][0];
+  elem.y =obj[i][1];
+  elem.text=obj[i][2];
+  elem.hab=obj[i][3];
+  dataPoints.push(elem);
+}
+
+var chart = new CanvasJS.Chart("chartContainer", {
+	animationEnabled: true,
+	zoomEnabled: true,
+	title:{
+		text: "Poblaciones"
+	},
+	axisX: {
+		title:"long",
+		minimum: -10,
+		maximum: 5
+	},
+	axisY:{
+		title: "Lat",
+		minimum: 35,
+		maximum: 45
+	},
+	data: [{
+		type: "scatter",
+		toolTipContent: "{text}<br/><b>Hab:</b>{hab}",
+		dataPoints: dataPoints
+	}]
+});
+chart.render();
+
+}
+</script>
+</head>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
+</html>
