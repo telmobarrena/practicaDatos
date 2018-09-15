@@ -56,7 +56,7 @@ Opcional con Python: [practica webScraping2](practicas/webScraping2)
 # Coordenadas geográficas
 - [Coordenadas de poblaciones](https://www.businessintelligence.info/assets/listado-longitud-latitud-municipios-espana.html)
 - Funcion JavaScript para leer coordenadas
-<textarea>
+<pre>
 function leerPoblaciones() {
     villagesTR = document.getElementsByTagName('table')[0].getElementsByTagName('tr')
     str='[';
@@ -72,7 +72,7 @@ function leerPoblaciones() {
     str += "[,,]]"
     return str;
 }
-</textarea>
+</pre>
 
 Función Excel para crear JSON: <textarea>
 =CONCATENATE("[";SUBSTITUTE(E4;",";".");",";SUBSTITUTE(D4;",";".");",'";SUBSTITUTE(C4;"'";" ");"'],")</textarea>
