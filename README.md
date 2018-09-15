@@ -48,7 +48,7 @@ Opcional con Python: [practica webScraping2](practicas/webScraping2)
 - [Open Data Euskadi](http://opendata.euskadi.eus/inicio/)
 - [Open data initiative of the Government of Spain](http://datos.gob.es/en)
 - [EU Open Data Portal](https://data.europa.eu/euodp/en/home)
-- [Temperaturas en xml y WebScraping](http://www.aemet.es/es/eltiempo/prediccion/espana?w=13)
+- [Temperaturas en xml y Web](http://www.aemet.es/es/eltiempo/prediccion/espana?w=13)
 
 # Ejemplos de API
 - [Rapid API](https://rapidapi.com/)
