@@ -55,12 +55,12 @@ Opcional con Python: [practica webScraping2](practicas/webScraping2)
 
 # Coordenadas geográficas
 - [Coordenadas de poblaciones](https://www.businessintelligence.info/assets/listado-longitud-latitud-municipios-espana.html)
-- [Funcion JavaScript para leer coordenadas(geocoordenadas/leerPoblaciones.js)
+- [Funcion JavaScript para leer coordenadas](geocoordenadas/leerPoblaciones.js)
 - Función Excel para crear JSON:
-=CONCATENATE("[";SUBSTITUTE(E4;",";".");",";SUBSTITUTE(D4;",";".");",'";SUBSTITUTE(C4;"'";" ");"'],")
+<textarea cols="103">=CONCATENATE("[";SUBSTITUTE(E4;",";".");",";SUBSTITUTE(D4;",";".");",'";SUBSTITUTE(C4;"'";" ");"'],")</textarea>
 
 - [Poblaciones con GoolgleChart](geocoordenadas/pobDataGoogle.html) - [Google Chart](https://developers.google.com/chart/interactive/docs/gallery/scatterchart)
-- [Poblaciones con Plotly.html](geocoordenadas/pobDataPlotly.html) - [Plotly](https://canvasjs.com/html5-javascript-scatter-point-chart/)
+- [Poblaciones con Plotly.html](geocoordenadas/pobDataPlotly.html) - [Plotly](https://plot.ly/javascript/line-and-scatter/#data-labels-hover)
 - [Poblaciones con CanvasJS](geocoordenadas/pobDataCanvasJS.html) - [CanvasJS](https://canvasjs.com/html5-javascript-scatter-point-chart/)
 
 ## Coordenadas UTM
