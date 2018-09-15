@@ -5,7 +5,8 @@
 - [Tabla ASCII](https://ascii.cl/)
 - [JavaScript](https://nicolasserrano.github.io/CS/JavaScript/JavascriptOnePage.pdf)
 - [XML DOM](https://www.w3schools.com/xml/dom_intro.asp)
-- [JSON](https://nicolasserrano.github.io/CS/JavaScript#json
+- [JSON](https://nicolasserrano.github.io/CS/JavaScript#json)
+
 ## Visualización
 - [Tipos de gráficos (INE)](https://www.ine.es/explica/docs/pasos_tipos_graficos.pdf)
 - [Tipos de gráficos de Dan Roam (codex)](http://www.danroam.com/assets/pdf/tools/TBOTN_codex.pdf)
