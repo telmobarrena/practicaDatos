@@ -59,6 +59,8 @@ Opcional con Python: [practica webScraping2](practicas/webScraping2)
 
 # Ejemplos de visualización
 - [Gráficas de The Economist](https://www.google.es/search?q=charts+site:economist.com&source=lnms&tbm=isch&sa=X)
+- [Librerías de gráficos](https://www.sitepoint.com/15-best-javascript-charting-libraries/)
+- [GapMinder](https://www.gapminder.org/)
 
 ## Coordenadas geográficas
 - [Coordenadas de poblaciones](https://www.businessintelligence.info/assets/listado-longitud-latitud-municipios-espana.html)
