@@ -56,6 +56,8 @@ Opcional con Python: [practica webScraping2](practicas/webScraping2)
 
 # Ejemplos de API
 - [Rapid API](https://rapidapi.com/)
+- [Public APIs by Todd Motto](https://github.com/toddmotto/public-apis)
+- [Api Directory of Programmable Web](https://www.programmableweb.com/category/all/apis)
 
 # Ejemplos de visualización
 - [Gráficas de The Economist](https://www.google.es/search?q=charts+site:economist.com&source=lnms&tbm=isch&sa=X)
