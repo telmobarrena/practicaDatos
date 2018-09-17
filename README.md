@@ -15,37 +15,24 @@
 
 Instrucciones para las practicas:
 
-[practica csv1](practicas/csv1)
+- [practica csv1](practicas/csv1)
+- [practica csv2](practicas/csv2)
+- [practica csv3](practicas/csv3)
+- [practica csv4](practicas/csv4)
+- [practica xml1](practicas/xml1)
+- [practica xml2](practicas/xml2)
+- [practica rss](practicas/rss)
+- [practica json1](practicas/json1)
+- [practica json2](practicas/json2)
+- [practica api](practicas/api)
+- [practica webScraping1](practicas/webScraping1)
+- [practica webScraping2](practicas/webScraping2) (Opcional, para realizar con Python)
+- [practica webScraping3](practicas/webScraping3)
+- [practica visualizacion1](practicas/visualizacion1)
+- [practica visualizacion2](practicas/visualizacion2)
+- [practica visualizacion3](practicas/visualizacion3)
 
-[practica csv2](practicas/csv2)
-
-[practica csv3](practicas/csv3)
-
-[practica csv4](practicas/csv4)
-
-[practica xml1](practicas/xml1)
-
-[practica xml2](practicas/xml2)
-
-[practica rss](practicas/rss)
-
-[practica json1](practicas/json1)
-
-[practica json2](practicas/json2)
-
-[practica api](practicas/api)
-
-[practica webScraping1](practicas/webScraping1)
-
-Opcional con Python: [practica webScraping2](practicas/webScraping2)
-
-[practica webScraping3](practicas/webScraping3)
-
-[practica visualizacion1](practicas/visualizacion1)
-
-[practica visualizacion2](practicas/visualizacion2)
-
-[practica visualizacion3](practicas/visualizacion3)
+[practica visualizacion4](practicas/visualizacion4)
 
 # Ejemplos de orígenes de datos
 - [Datos abiertos Donostia](https://www.donostia.eus/datosabiertos/)
@@ -64,15 +51,7 @@ Opcional con Python: [practica webScraping2](practicas/webScraping2)
 - [Librerías de gráficos](https://www.sitepoint.com/15-best-javascript-charting-libraries/)
 - [GapMinder](https://www.gapminder.org/)
 
-## Coordenadas geográficas
-- [Coordenadas de poblaciones](https://www.businessintelligence.info/assets/listado-longitud-latitud-municipios-espana.html)
-- [Funcion JavaScript para leer coordenadas](geocoordenadas/leerPoblaciones.js)
-- Función Excel para crear JSON:
-<textarea cols="103">=CONCATENATE("[";SUBSTITUTE(E4;",";".");",";SUBSTITUTE(D4;",";".");",'";SUBSTITUTE(C4;"'";" ");"'],")</textarea>
-
-- [Poblaciones con GoolgleChart](geocoordenadas/pobDataGoogle.html) - [Google Chart](https://developers.google.com/chart/interactive/docs/gallery/scatterchart)
-- [Poblaciones con Plotly.html](geocoordenadas/pobDataPlotly.html) - [Plotly](https://plot.ly/javascript/line-and-scatter/#data-labels-hover)
-- [Poblaciones con CanvasJS](geocoordenadas/pobDataCanvasJS.html) - [CanvasJS](https://canvasjs.com/html5-javascript-scatter-point-chart/)
+# Otras referencias
 
 ## Coordenadas UTM
 - [UTM coordinates](https://upload.wikimedia.org/wikipedia/commons/e/ed/Utm-zones.jpg)
