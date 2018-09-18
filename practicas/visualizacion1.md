@@ -8,7 +8,7 @@ Se van a comparar los datos de empleo de Euskadi en el primer periodo del 2017 p
 
       Mercado laboral
       Población Ocupada PRA
-      Población ocupada entre 16-24 años y 45 años y más
+      Población ocupada entre 16-24 años, 25-44 años y 45 años y más
       Años entre 2017-2017
       Euskadi
       Distintas Tablas
