@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="obj.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['bar']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+	  var x = document.createElement("IMG");
+      document.body.appendChild(x);
+	  
+	  
+        var data = new google.visualization.DataTable();
+          data.addColumn('string', 'Universidades');
+          data.addColumn('number', 'Ranking mundial');
+		  data.addColumn('number', 'Posición por presencia');
+          data.addColumn('number', 'Posición por excelencia');
+		  
+		  x=[]; y=[]; z=[]; j=[]; l=[];
+        for (i=0;i<obj.length;i++) {
+          x[i]=obj[i][0];
+          y[i]=obj[i][1];
+		  z[i]=obj[i][2];
+          j[i]=obj[i][3];
+		  
+		  
+          data.addRows([[x[i], y[i], z[i], j[i]]]);
+		  
+        }
+
+
+        var options = {
+          chart: {
+            title: 'Ranking mundial de universidades', 
+			subtitle: 'Españolas'
+          },
+          bars: 'horizontal' 
+        };
+
+        var chart = new google.charts.Bar(document.getElementById('barchart_material'));
+
+        chart.draw(data, google.charts.Bar.convertOptions(options));
+      }
+    </script>
+  </head>
+  <body>
+    <div id="barchart_material" style="width: 1300px; height: 600px;"></div>
+  </body>
+</html>
